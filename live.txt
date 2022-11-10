@@ -32,6 +32,7 @@ CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 凤凰中文,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰资讯,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰香港,http://gg.gg/fhwsxg
+凤凰香港,http://gg.gg/fhwshk
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
