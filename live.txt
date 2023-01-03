@@ -14,11 +14,13 @@ CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 咪咕体育4K,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 咪咕体育4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+百视通4K,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 4K修复 7M2160HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 河南卫视4K测试,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 北京纪实8K,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
@@ -266,13 +268,13 @@ NewTV海外剧场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122
 4K超高清电影,http://175.154.201.15:8090/custom28.m3u8
 4K超高清电影,http://r.jdshipin.com/5DWJk
 4K超高清电影,http://r.jdshipin.com/B7sfp
-CBN风尚生活,http://xjayrf.eatuo.com:9901/tsfile/live/1057_1.m3u8
+CBN风尚生活,http://r.jdshipin.com/qrfbg
 CBN风尚生活,http://223.83.183.218:9901/tsfile/live/0001_38.m3u8
-CBN每日影院,http://fyld.eatuo.com:9901/tsfile/live/1046_1.m3u8
+CBN每日影院,http://r.jdshipin.com/sE5vO
 CBN每日影院,http://xjayrf.eatuo.com:9901/tsfile/live/1046_1.m3u8
+CBN幸福剧场,http://r.jdshipin.com/OeHMu
 CBN幸福剧场,http://fyld.eatuo.com:9901/tsfile/live/1047_1.m3u8
-CBN幸福剧场,http://xjayrf.eatuo.com:9901/tsfile/live/1051_1.m3u8
-CBN幸福娱乐,http://xjayrf.eatuo.com:9901/tsfile/live/1052_1.m3u8
+CBN幸福娱乐,http://r.jdshipin.com/sXuuD
 CBN幸福娱乐,http://223.83.183.218:9901/tsfile/live/0001_37.m3u8
 求索记录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索生活,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
@@ -280,6 +282,7 @@ CBN幸福娱乐,http://223.83.183.218:9901/tsfile/live/0001_37.m3u8
 求索动物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
+文物宝库,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8
 SITV法治天地,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8
 SITV金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332/index.m3u8
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
@@ -355,7 +358,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 百变课堂,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
 看天下精选,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
 电竞天堂,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-百事通直播,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225849/index.m3u8
+百视通直播,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225849/index.m3u8
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中学生,http://lu1.cc/c/tv/sjtv/p/migu.php?id=zxs
@@ -370,8 +373,12 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
 车迷,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8
 优漫卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225665/index.m3u8
+新动漫,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8
+优优宝贝,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8
 美食汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8
 京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226242/index.m3u8
 置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226241/index.m3u8
 弈坛春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226245/index.m3u8
+四海钓鱼,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
+百姓健康,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040371/main.m3u8
