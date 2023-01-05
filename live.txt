@@ -14,7 +14,7 @@ CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 咪咕体育4K,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 咪咕体育4K,http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-百视通4K,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 4K修复 7M2160HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -177,6 +177,7 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 大湾区卫视,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=nfws
 大湾区卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8
 陕西农林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8
+康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
 康巴卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226207/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
@@ -271,7 +272,7 @@ NewTV海外剧场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/322122
 CBN风尚生活,http://r.jdshipin.com/qrfbg
 CBN风尚生活,http://223.83.183.218:9901/tsfile/live/0001_38.m3u8
 CBN每日影院,http://r.jdshipin.com/sE5vO
-CBN每日影院,http://xjayrf.eatuo.com:9901/tsfile/live/1046_1.m3u8
+CBN每日影院,http://fyld.eatuo.com:9901/tsfile/live/1046_1.m3u8
 CBN幸福剧场,http://r.jdshipin.com/OeHMu
 CBN幸福剧场,http://fyld.eatuo.com:9901/tsfile/live/1047_1.m3u8
 CBN幸福娱乐,http://r.jdshipin.com/sXuuD
@@ -309,7 +310,7 @@ SITV金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332
 卫生健康,http://27.221.72.47/tlivecloud-ipv6.ysp.cctv.cn/001/2012513502.m3u8
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 无线新闻,http://iptv.cooltv.top/tv/tvb.php?id=0
-无线财经,http://www.nettvpro.live/hls/tvb.php?id=2
+无线财经,http://iptv.cooltv.top/tv/tvb.php?id=2
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://jylt.jdshipin.com:808/hls/25/index.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
@@ -323,6 +324,8 @@ TVB星河,http://jydx.jdshipin.com:808/hls/135/index.m3u8
 有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS
 VIUTV,http://r.jdshipin.com/vSJvl
 RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
