@@ -23,7 +23,7 @@ CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 华数4K影视,http://159.75.85.63:5828/4kys.php
 北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 河南卫视4K测试,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-北京纪实8K,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+北京纪实8K,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 芒果娱乐4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8?servicetype=3
@@ -105,7 +105,7 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8
 上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-哈哈炫动,http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=hhxd
+哈哈炫动,http://tvmvip110.club/bs.php?id=19
 哈哈炫动,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225720/index.m3u8
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -178,7 +178,7 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 兵团卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
 海峡卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8?servicetype=3
 梨园频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
-大湾区卫视,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=nfws
+大湾区卫视,http://lu1.cc/itv/gdtv/gdtv.php?id=nfws
 大湾区卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226203/index.m3u8
 陕西农林卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8
 康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
@@ -202,7 +202,7 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 湖南教育,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
 长沙影视,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
 芒果剧场,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8?servicetype=3&c=福建三明移动
-东方影视,http://lu1.cc/c/tv/sjtv/sh/bst5g.php?id=dfys
+东方影视,http://tvmvip110.club/bst.php?id=41
 上海第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 东方财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 深圳财经生活,http://zjdx.jdshipin.com:808/hls/105/index.m3u8
@@ -216,10 +216,10 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 M1905电影网,http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 北京IPTV淘电影,http://r.jdshipin.com/OeHMu
 广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
-广东珠江,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
+广东珠江,http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj
 广东珠江,http://r.jdshipin.com/sE5vO
-广东新闻,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdxw
-广东影视,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdys
+广东新闻,http://lu1.cc/itv/gdtv/gdtv.php?id=gdxw
+广东影视,http://lu1.cc/itv/gdtv/gdtv.php?id=gdys
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
@@ -231,6 +231,8 @@ M1905电影网,http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 重庆影视,http://baidu.live.cqccn.com/__cl/cg:live/__c/cqyingshiHD/__op/default/__f//index.m3u8
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+西部电影,http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
+西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 江苏影视,http://lu1.cc/itv/jstv/jstv.php?id=jsys
 江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 湖北影视,http://lu1.cc/itv/hubtv/cjy.php?id=hbys
@@ -296,8 +298,8 @@ SITV金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332
 体育赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-五星体育,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://117.184.239.66/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://lu1.cc/itv/php/bst5g.php?id=wxty
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 足球频道,http://183.207.255.188/live/program/live/zqpd8m/8000000/mnf.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
@@ -317,12 +319,12 @@ SITV金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332
 无线新闻,http://iptv.cooltv.top/tv/tvb.php?id=0
 无线财经,http://iptv.cooltv.top/tv/tvb.php?id=2
 翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
+翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 华丽翡翠台,http://r.jdshipin.com/thuYX
 TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
-TVB星河,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
+TVB星河,http://r.jdshipin.com/sXuuD
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
 有线新闻台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -372,8 +374,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 百视通直播,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225849/index.m3u8
 老故事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-中学生,http://lu1.cc/c/tv/sjtv/p/migu.php?id=zxs
-西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+中学生,http://lu1.cc/itv/php/scgd.php?id=zxs
 青岛中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
 家庭理财,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/index.m3u8
 财富天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226334/index.m3u8
