@@ -7,7 +7,7 @@ CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K,http://111.31.26.166/tlivecloud-ipv6.ysp.cctv.cn/001/2000266303.m3u8
 CCTV16-4K,http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=3
-CCTV16-4K,http://[2409:8087:3428:20:500::1015]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=3
+CCTV16-4K,http://[2409:8087:3428:20:500::1013]:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
