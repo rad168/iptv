@@ -1,15 +1,16 @@
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 纯享4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://nas.jdshipin.com:8801/fmm.php?id=cctv4k
-CCTV4K,http://r.jdshipin.com/krMB5
+CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://r.jdshipin.com/krMB5
+CCTV4K,http://nas.jdshipin.com:8801/fmm.php?id=cctv4k
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV16-4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV16-4K,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
+CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+CCTV16-4K,http://nas.jdshipin.com:8801/bst.php?id=cctv16hd4k/15000000
 CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -20,8 +21,6 @@ CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLT
 咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕体育4K-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪咕体育4K-2,http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
-百视通4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-百视通4K,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 4K修复 7M2160HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -62,9 +61,9 @@ CCTV8.超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+凤凰中文,http://angtv.cc/test/xg.php?id=test1_4000
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+凤凰资讯,http://angtv.cc/test/xg.php?id=test2_4000
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
@@ -118,6 +117,7 @@ CGTNDOCUMENTARY,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/in
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -198,10 +198,12 @@ CGTNDOCUMENTARY,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/in
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 海峡卫视,http://nas.jdshipin.com:8801/fmm.php?id=hxws
 海峡卫视,http://r.jdshipin.com/WtYt3
-梨园频道,http://www.terrykang.cn:5678/sxg.php?id=ly_4000
+梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+梨园频道,http://angtv.cc/test/xg.php?id=ly_4000
 大湾区卫视,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1004_1.m3u8
 大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
 大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+陕西农林卫视,http://nas.jdshipin.com:8801/qly.php?id=6335
 陕西农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 康巴卫视,http://111.40.196.38:443/PLTV/88888888/224/3221225648/1.m3u8
@@ -234,8 +236,8 @@ CGTNDOCUMENTARY,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/in
 东方影视,http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
 上海第一财经,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 东方财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8?
-深圳财经生活,http://mail.wgf.pub:10000/udp/239.77.1.242:5146
-深圳财经生活,http://lu1.cc/c/gf65s8jf87v94cdg/php/tide.php?id=szcjsh
+深圳财经生活,http://nas.jdshipin.com:8801/iptv.php?id=szcjsh
+深圳财经生活,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://r.jdshipin.com/vFgDS
 4K超高清电影,http://r.jdshipin.com/5DWJk
@@ -249,10 +251,10 @@ M1905电影网,http://nas.jdshipin.com:8801/1905.php?id=1905dy
 广东体育,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
+广州综合,http://nas.jdshipin.com:8801/iptv.php?id=gzzh
 广州南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
-宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
+广州影视,http://nas.jdshipin.com:8801/iptv.php?id=gzys
 北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
@@ -262,10 +264,11 @@ M1905电影网,http://nas.jdshipin.com:8801/1905.php?id=1905dy
 陕西影视,http://nas.jdshipin.com:8801/qly.php?id=6329
 江苏影视,http://lu1.cc/c/gf65s8jf87v94cdg/jstv/jstv.php?id=jsys
 江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 湖北影视,http://angtv.cc/test/hrtn.php?id=hbys_1000
-湖北影视,http://ainm.cc/c/tv/hubtv/cjy.php?id=hbys
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -314,8 +317,8 @@ NewTV海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-武术世界,http://www.terrykang.cn:5678/sxg.php?id=wssj_4000
-文物宝库,http://www.terrykang.cn:5678/sxg.php?id=wwbk_4000
+武术世界,http://angtv.cc/test/xg.php?id=wssj_4000
+文物宝库,http://angtv.cc/test/xg.php?id=wwbk_4000
 SITV法治天地,http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
 SITV金色学堂,http://nas.jdshipin.com:8801/bst.php?id=jingsepd8m/8000000
 动漫秀场,http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
@@ -339,7 +342,7 @@ SITV金色学堂,http://nas.jdshipin.com:8801/bst.php?id=jingsepd8m/8000000
 风云音乐,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 女性时尚,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-卫生健康,http://www.tvzb.com/iptv/tvzb82.php?id=wsjk
+卫生健康,https://angtv.cc/test/ysp.php?id=wsjk
 中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
@@ -428,10 +431,10 @@ Channel [V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 漫游世界,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-中学生,http://www.terrykang.cn:5678/sxg.php?id=zxs_4000
+中学生,http://angtv.cc/test/xg.php?id=zxs_4000
 青岛中华美食,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
-家庭理财,http://www.terrykang.cn:5678/sxg.php?id=jtlc_4000
-财富天下,http://www.terrykang.cn:5678/sxg.php?id=cftx_4000
+家庭理财,http://angtv.cc/test/xg.php?id=jtlc_4000
+财富天下,http://angtv.cc/test/xg.php?id=cftx_4000
 证券服务,https://live.goodiptv.club/api/cqyx.php?id=jiazheng
 环球旅游,https://live.goodiptv.club/api/cqyx.php?id=huanqiulvyou
 摄影,https://live.goodiptv.club/api/cqyx.php?id=sheying
@@ -456,3 +459,7 @@ Channel [V],http://j.cxctu.cf:4000/udp/239.93.0.157:2194
 绚影4K,http://nas.jdshipin.com:8801/iptv.php?id=xy4k
 湖南IPTV4K,http://nas.jdshipin.com:8801/iptv.php?id=hn4k
 云南4K,http://nas.jdshipin.com:8801/iptv.php?id=yn4k
+百视通4K测试,http://nas.jdshipin.com:8801/iptv.php?id=bst4k
+百视通4K儿童,http://nas.jdshipin.com:8801/iptv.php?id=bst4ket
+百视通4K电影,http://nas.jdshipin.com:8801/iptv.php?id=bst4kdy
+百视通4K纪实,http://nas.jdshipin.com:8801/iptv.php?id=bst4kjs
