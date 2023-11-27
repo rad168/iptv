@@ -13,19 +13,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212282
 #EXTINF:-1 ,CCTV4K
 http://r.jdshipin.com/krMB5
 #EXTINF:-1 ,CCTV4K
-http://nas.jdshipin.com:8801/fmm.php?id=cctv4k
+http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 #EXTINF:-1 ,CCTV4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1 ,CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+https://cfyy.cc/ds/ysp/qp.php?id=cctv4k
 #EXTINF:-1 ,CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV16-4K
-http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
+http://php.jdshipin.com:8880/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 ,CCTV16-4K
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 #EXTINF:-1 ,CCTV16-4K
-http://nas.jdshipin.com:8801/bst.php?id=cctv16hd4k/15000000
+http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 ,CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 ,CCTV16-4K 25M2160
@@ -127,11 +127,11 @@ http://r.jdshipin.com/yDoTN
 #EXTINF:-1 ,凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 ,凤凰中文
-http://angtv.cc/test/xg.php?id=test1_4000
+http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 #EXTINF:-1 ,凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 ,凤凰资讯
-http://angtv.cc/test/xg.php?id=test2_4000
+http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 #EXTINF:-1 ,CCTV13
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1 ,CCTV13
@@ -385,19 +385,19 @@ https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 #EXTINF:-1 ,宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 ,西藏卫视
-http://zgntv.icu/live/xztv.php?id=0
+http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1 ,西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 ,新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1 ,新疆卫视
-http://nas.jdshipin.com:8801/xjtv.php?id=xjws
+http://php.jdshipin.com:8880/xjtv.php?id=xjws
 #EXTINF:-1 ,新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 ,兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 ,海峡卫视
-http://nas.jdshipin.com:8801/fmm.php?id=hxws
+http://php.jdshipin.com:8880/fmm.php?id=hxws
 #EXTINF:-1 ,海峡卫视
 http://r.jdshipin.com/WtYt3
 #EXTINF:-1 ,梨园频道
@@ -409,7 +409,7 @@ https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 ,大湾区卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1 ,陕西农林卫视
-http://nas.jdshipin.com:8801/qly.php?id=6335
+http://php.jdshipin.com:8880/qly.php?id=6335
 #EXTINF:-1 ,陕西农林卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 #EXTINF:-1 ,康巴卫视
@@ -425,7 +425,7 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 ,延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 ,西藏藏语卫视
-http://zgntv.icu/live/xztv.php?id=1
+http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 ,内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 ,汽摩
@@ -439,45 +439,45 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/index.m3u
 #EXTINF:-1 ,湖南经视
 http://zteres.sn.chinamobile.com:6060/000000001000/6306119848317438256/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6306119848317438256
 #EXTINF:-1 ,湖南经视
-http://nas.jdshipin.com:8801/iptv.php?id=hnjs
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
 #EXTINF:-1 ,湖南都市
 http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4682579636905393407
 #EXTINF:-1 ,湖南都市
-http://nas.jdshipin.com:8801/iptv.php?id=hnds
+http://php.jdshipin.com:8880/iptv.php?id=hnds
 #EXTINF:-1 ,湖南爱晚
-http://nas.jdshipin.com:8801/iptv.php?id=hngg
+http://php.jdshipin.com:8880/iptv.php?id=hngg
 #EXTINF:-1 ,湖南电视剧
 http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8765482907954673867
 #EXTINF:-1 ,湖南电视剧
-http://nas.jdshipin.com:8801/iptv.php?id=hndsj
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
 #EXTINF:-1 ,湖南电影
 http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7884242846753128038
 #EXTINF:-1 ,湖南电影
-http://nas.jdshipin.com:8801/iptv.php?id=hndy
+http://php.jdshipin.com:8880/iptv.php?id=hndy
 #EXTINF:-1 ,湖南娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
 #EXTINF:-1 ,湖南娱乐
-http://nas.jdshipin.com:8801/iptv.php?id=hnyl
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
 #EXTINF:-1 ,湖南国际
 http://zteres.sn.chinamobile.com:6060/000000001000/5015828848322021526/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5015828848322021526
 #EXTINF:-1 ,湖南国际
-http://nas.jdshipin.com:8801/iptv.php?id=hngj
+http://php.jdshipin.com:8880/iptv.php?id=hngj
 #EXTINF:-1 ,湖南教育
-http://nas.jdshipin.com:8801/iptv.php?id=hnjy
+http://php.jdshipin.com:8880/iptv.php?id=hnjy
 #EXTINF:-1 ,上海新闻综合
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 ,东方影视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF:-1 ,东方影视
-http://nas.jdshipin.com:8801/bst.php?id=dfyshd8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 ,上海第一财经
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 ,东方财经
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF:-1 ,深圳财经生活
-http://nas.jdshipin.com:8801/iptv.php?id=szcjsh
+http://php.jdshipin.com:8880/iptv.php?id=szcjsh
 #EXTINF:-1 ,深圳财经生活
-http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
+http://223.109.210.49/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
 #EXTINF:-1 ,峨眉电影
 http://r.jdshipin.com/XIjta
 #EXTINF:-1 ,峨眉电影
@@ -489,7 +489,7 @@ http://r.jdshipin.com/B7sfp
 #EXTINF:-1 ,北京IPTV淘电影
 http://r.jdshipin.com/OeHMu
 #EXTINF:-1 ,M1905电影网
-http://nas.jdshipin.com:8801/1905.php?id=1905dy
+http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 ,广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 ,广东珠江
@@ -497,31 +497,25 @@ https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 ,广东新闻
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 ,广东影视
-http://angtv.cc/jd/gdlz.php?id=gdys
+https://php.17186.eu.org/gdtv/gdys.m3u8
 #EXTINF:-1 ,广东影视
 https://php.17186.eu.org/gdtv/web/gdys.m3u8
 #EXTINF:-1 ,广东体育
-http://angtv.cc/jd/gdlz.php?id=dgty
+https://php.17186.eu.org/gdtv/gdty.m3u8
 #EXTINF:-1 ,广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 ,广州综合
-http://newhc.gztv.com/sec/zhonghe.m3u8
-#EXTINF:-1 ,广州综合
-http://nas.jdshipin.com:8801/iptv.php?id=gzzh
-#EXTINF:-1 ,广州综合
 http://r.jdshipin.com/iR6Gq
-#EXTINF:-1 ,广州南国都市
-http://newhc.gztv.com/sec/shenghuos.m3u8
-#EXTINF:-1 ,广州南国都市
-http://nas.jdshipin.com:8801/gztv.php?id=shenghuo
+#EXTINF:-1 ,广州综合
+http://php.jdshipin.com:8880/iptv.php?id=gzzh
 #EXTINF:-1 ,广州南国都市
 http://r.jdshipin.com/nWaZO
+#EXTINF:-1 ,广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 ,广州影视
 http://newhc.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 ,广州影视
-http://nas.jdshipin.com:8801/iptv.php?id=gzys
-#EXTINF:-1 ,广州影视
-http://r.jdshipin.com/TcKr2
+http://php.jdshipin.com:8880/iptv.php?id=gzys
 #EXTINF:-1 ,北京影视
 https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 #EXTINF:-1 ,黑龙江影视
@@ -529,27 +523,25 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 ,重庆影视
 https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 #EXTINF:-1 ,西藏影视文化
-http://zgntv.icu/live/xztv.php?id=2
+http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 ,西部电影
-http://nas.jdshipin.com:8801/qly.php?id=6332
+http://php.jdshipin.com:8880/qly.php?id=6332
 #EXTINF:-1 ,西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 #EXTINF:-1 ,陕西影视
-http://nas.jdshipin.com:8801/qly.php?id=6329
+http://php.jdshipin.com:8880/qly.php?id=6329
 #EXTINF:-1 ,江苏影视
-http://lu1.cc/c/gf65s8jf87v94cdg/jstv/jstv.php?id=jsys
+http://ainm.cc/c/tv/jstv/jstv.php?id=jsys
 #EXTINF:-1 ,江苏影视
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 #EXTINF:-1 ,湖北影视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 #EXTINF:-1 ,湖北影视
-http://angtv.cc/test/hrtn.php?id=hbys_1000
+http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000
 #EXTINF:-1 ,安徽影视
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 #EXTINF:-1 ,安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 ,云南影视
-http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
 #EXTINF:-1 ,黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 ,黑莓动画
@@ -567,7 +559,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
 #EXTINF:-1 ,游戏风云
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 #EXTINF:-1 ,魅力足球
-http://nas.jdshipin.com:8801/bst.php?id=mlyyhd8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=mlyyhd8m/8000000
 #EXTINF:-1 ,快乐垂钓
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226805/index.m3u8
 #EXTINF:-1 ,茶
@@ -651,19 +643,19 @@ http://live.dxhmt.cn:9080/live/yshnpre.m3u8
 #EXTINF:-1 ,文物宝库
 http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 ,SITV法治天地
-http://nas.jdshipin.com:8801/bst.php?id=fztd8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
 #EXTINF:-1 ,SITV金色学堂
-http://nas.jdshipin.com:8801/bst.php?id=jingsepd8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=jingsepd8m/8000000
 #EXTINF:-1 ,动漫秀场
-http://nas.jdshipin.com:8801/bst.php?id=dmxc8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000
 #EXTINF:-1 ,生活时尚
-http://nas.jdshipin.com:8801/bst.php?id=shss8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=shss8m/8000000
 #EXTINF:-1 ,中华特产
 https://live.goodiptv.club/api/cqyx.php?id=techan
 #EXTINF:-1 ,精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 #EXTINF:-1 ,新视觉
-http://nas.jdshipin.com:8801/bst.php?id=xsjhd/4000000
+http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 #EXTINF:-1 ,劲爆体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1 ,五星体育
@@ -697,7 +689,7 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221
 #EXTINF:-1 ,女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 ,卫生健康
-https://angtv.cc/test/ysp.php?id=wsjk
+https://cfyy.cc/ds/ysp/qp.php?id=wsjk
 #EXTINF:-1 ,中国交通
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 ,无线新闻
@@ -761,7 +753,7 @@ http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 #EXTINF:-1 ,澳门莲花
 http://epg.112114.xyz/lotus
 #EXTINF:-1 ,澳门莲花
-http://nas.jdshipin.com:8801/amlh.php
+http://php.jdshipin.com:8880/amlh.php
 #EXTINF:-1 ,好莱坞电影
 http://r.jdshipin.com/QFhCq
 #EXTINF:-1 ,澳亚卫视
@@ -770,8 +762,6 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 http://j.cxctu.cf:4000/udp/239.93.0.156:2193
 #EXTINF:-1 ,Channel [V]
 http://j.cxctu.cf:4000/udp/239.93.0.157:2194
-#EXTINF:-1 ,国学
-https://live.goodiptv.club/api/cqyx.php?id=guoxue
 #EXTINF:-1 ,精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 ,爱电竞
@@ -835,33 +825,33 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u
 #EXTINF:-1 ,爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 ,华语影院
-http://nas.jdshipin.com:8801/bst.php?id=hyyy8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 #EXTINF:-1 ,星光影院
-http://nas.jdshipin.com:8801/bst.php?id=xgyy8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
 #EXTINF:-1 ,全球大片
-http://nas.jdshipin.com:8801/bst.php?id=qqdp8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
 #EXTINF:-1 ,热门剧场
-http://nas.jdshipin.com:8801/bst.php?id=rmjc8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
 #EXTINF:-1 ,谍战剧场
-http://nas.jdshipin.com:8801/bst.php?id=dzjc8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
 #EXTINF:-1 ,青春动漫
-http://nas.jdshipin.com:8801/bst.php?id=qcdm8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
 #EXTINF:-1 ,宝宝动画
-http://nas.jdshipin.com:8801/bst.php?id=bbdh8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
 #EXTINF:-1 ,戏曲精选
-http://nas.jdshipin.com:8801/bst.php?id=xqjx8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
 #EXTINF:-1 ,热门综艺
-http://nas.jdshipin.com:8801/bst.php?id=rmzy8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
 #EXTINF:-1 ,超级体育
-http://nas.jdshipin.com:8801/bst.php?id=qcsj8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=qcsj8m/8000000
 #EXTINF:-1 ,健康养生
-http://nas.jdshipin.com:8801/bst.php?id=jkys8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
 #EXTINF:-1 ,百变课堂
-http://nas.jdshipin.com:8801/bst.php?id=bbkt8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
 #EXTINF:-1 ,看天下精选
-http://nas.jdshipin.com:8801/bst.php?id=ktxjx8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
 #EXTINF:-1 ,电竞天堂
-http://nas.jdshipin.com:8801/bst.php?id=djtt8m/8000000
+http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
 #EXTINF:-1 ,百视通直播
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225849/index.m3u8
 #EXTINF:-1 ,电子竞技
@@ -876,6 +866,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 ,中学生
 http://hls.live.cqccn.com/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
+#EXTINF:-1 ,国学
+https://live.goodiptv.club/api/cqyx.php?id=guoxue
 #EXTINF:-1 ,青岛中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 #EXTINF:-1 ,家庭理财
@@ -919,22 +911,22 @@ https://live.goodiptv.club/api/cqyx.php?id=shengtai
 #EXTINF:-1 ,收藏天下
 https://live.goodiptv.club/api/cqyx.php?id=soucang
 #EXTINF:-1 ,北京IPTV4K
-http://nas.jdshipin.com:8801/iptv.php?id=bj4k
+http://php.jdshipin.com:8880/iptv.php?id=bj4k
 #EXTINF:-1 ,广东4K超高清
-http://nas.jdshipin.com:8801/iptv.php?id=gd4k
+http://php.jdshipin.com:8880/iptv.php?id=gd4k
 #EXTINF:-1 ,广州南国都市4K
-http://nas.jdshipin.com:8801/iptv.php?id=ngds4k
+http://php.jdshipin.com:8880/iptv.php?id=ngds4k
 #EXTINF:-1 ,绚影4K
-http://nas.jdshipin.com:8801/iptv.php?id=xy4k
+http://php.jdshipin.com:8880/iptv.php?id=xy4k
 #EXTINF:-1 ,湖南IPTV4K
-http://nas.jdshipin.com:8801/iptv.php?id=hn4k
+http://php.jdshipin.com:8880/iptv.php?id=hn4k
 #EXTINF:-1 ,云南4K
-http://nas.jdshipin.com:8801/iptv.php?id=yn4k
+http://php.jdshipin.com:8880/iptv.php?id=yn4k
 #EXTINF:-1 ,百视通4K测试
-http://nas.jdshipin.com:8801/iptv.php?id=bst4k
+http://php.jdshipin.com:8880/iptv.php?id=bst4k
 #EXTINF:-1 ,百视通4K儿童
-http://nas.jdshipin.com:8801/iptv.php?id=bst4ket
+http://php.jdshipin.com:8880/iptv.php?id=bst4ket
 #EXTINF:-1 ,百视通4K电影
-http://nas.jdshipin.com:8801/iptv.php?id=bst4kdy
+http://php.jdshipin.com:8880/iptv.php?id=bst4kdy
 #EXTINF:-1 ,百视通4K纪实
-http://nas.jdshipin.com:8801/iptv.php?id=bst4kjs
+http://php.jdshipin.com:8880/iptv.php?id=bst4kjs
