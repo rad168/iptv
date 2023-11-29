@@ -97,23 +97,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 ,江西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 ,江西新闻
-http://115.150.63.77:9901/tsfile/live/1061_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=jxxw
 #EXTINF:-1 ,江西都市
-http://115.150.63.77:9901/tsfile/live/1032_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=jxds
 #EXTINF:-1 ,江西经济生活
-http://115.150.63.77:9901/tsfile/live/1033_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
 #EXTINF:-1 ,江西影视旅游
-http://115.150.63.77:9901/tsfile/live/1039_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=jxysly
 #EXTINF:-1 ,江西公共农业
-http://115.150.63.77:9901/tsfile/live/1034_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=jxggny
 #EXTINF:-1 ,江西少儿
-http://115.150.63.77:9901/tsfile/live/1062_1.m3u8
-#EXTINF:-1 ,江西移动
-http://lu1.cc/c/gf65s8jf87v94cdg/jxtv/jsp.php?id=jxyd
+http://php.jdshipin.com:8880/iptv.php?id=jxse
 #EXTINF:-1 ,江西教育
-http://115.150.63.77:9901/tsfile/live/1036_1.m3u8
-#EXTINF:-1 ,江西指南
-http://115.150.63.77:9901/tsfile/live/1041_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=jxjy
 #EXTINF:-1 ,凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 ,凤凰资讯
@@ -127,11 +123,11 @@ http://r.jdshipin.com/yDoTN
 #EXTINF:-1 ,凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 ,凤凰中文
-http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+https://qist.cc/live/sc.php?id=fhws
 #EXTINF:-1 ,凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 ,凤凰资讯
-http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+https://qist.cc/live/sc.php?id=fhzx
 #EXTINF:-1 ,CCTV13
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1 ,CCTV13
@@ -397,9 +393,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 ,兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 ,海峡卫视
-http://php.jdshipin.com:8880/fmm.php?id=hxws
-#EXTINF:-1 ,海峡卫视
 http://r.jdshipin.com/WtYt3
+#EXTINF:-1 ,海峡卫视
+http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 #EXTINF:-1 ,梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 ,大湾区卫视
@@ -415,7 +411,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 #EXTINF:-1 ,康巴卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 ,康巴卫视
-http://111.40.196.38:443/PLTV/88888888/224/3221225648/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 #EXTINF:-1 ,安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 ,安多卫视
@@ -531,9 +527,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 #EXTINF:-1 ,陕西影视
 http://php.jdshipin.com:8880/qly.php?id=6329
 #EXTINF:-1 ,江苏影视
-http://ainm.cc/c/tv/jstv/jstv.php?id=jsys
-#EXTINF:-1 ,江苏影视
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+#EXTINF:-1 ,江苏影视
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?&encrypt=
 #EXTINF:-1 ,湖北影视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 #EXTINF:-1 ,湖北影视
@@ -705,9 +701,9 @@ http://r.jdshipin.com/qClQf
 #EXTINF:-1 ,翡翠台
 http://r.jdshipin.com/qrfbg
 #EXTINF:-1 ,翡翠台
-http://r.jdshipin.com/62WM7
+http://r.jdshipin.com/GeWKr?id=fct406
 #EXTINF:-1 ,翡翠台
-http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/GeWKr?id=fct720
 #EXTINF:-1 ,华丽翡翠台
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 ,TVB星河
@@ -715,9 +711,9 @@ http://r.jdshipin.com/sXuuD
 #EXTINF:-1 ,TVB星河
 http://r.jdshipin.com/Voac4
 #EXTINF:-1 ,明珠台
-http://r.jdshipin.com/ZQ4kN
+http://r.jdshipin.com/GeWKr?id=mzt720
 #EXTINF:-1 ,明珠台
-http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+http://php.jdshipin.com:8880/iptv.php?id=mzt
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,J2
@@ -865,7 +861,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 ,发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 ,中学生
-http://hls.live.cqccn.com/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/cqyx.php?id=qicai
 #EXTINF:-1 ,国学
 https://live.goodiptv.club/api/cqyx.php?id=guoxue
 #EXTINF:-1 ,青岛中华美食
