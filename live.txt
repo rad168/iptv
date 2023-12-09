@@ -353,14 +353,20 @@ SITV金色学堂,http://zteres.sn.chinamobile.com:6060/000000001000/500000001000
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
 华丽翡翠台,http://r.jdshipin.com/thuYX
+华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB星河,http://r.jdshipin.com/sXuuD
 TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
+TVB亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
 VIUTV,http://r.jdshipin.com/ecsRA
 HOY TV,http://r.jdshipin.com/NADme
