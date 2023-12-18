@@ -4,6 +4,8 @@
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 ,纯享4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 ,纯享4K
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1 ,直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV4K
@@ -19,13 +21,13 @@ http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
 #EXTINF:-1 ,CCTV4K
 http://tv.328326.com/iptv/tvzb82.php?id=cctv4k
 #EXTINF:-1 ,CCTV4K
-http://cfss.cc/api/ysp/cctv4k.m3u8
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 #EXTINF:-1 ,CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV16-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV16-4K
-http://[2409:8087:7001:20:1000::96]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000008000023254
 #EXTINF:-1 ,CCTV16-4K
 http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 ,CCTV16-4K 18M2160
@@ -44,8 +46,12 @@ http://r.jdshipin.com/EmWIN
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 ,咪咕体育4K
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 ,咪咕体育4K
+http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
 #EXTINF:-1 ,咪咕体育4K-2
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+#EXTINF:-1 ,咪咕体育4K-2
+http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000015686
 #EXTINF:-1 ,咪咕体育4K-2
 http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 ,欢笑剧场4K
@@ -63,7 +69,7 @@ http://r.jdshipin.com/Lqdwf
 #EXTINF:-1 ,华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 ,华数4K影视
-http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000003000004748
 #EXTINF:-1 ,河南卫视4K测试
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 ,北京纪实8K
@@ -225,7 +231,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/index.m3u
 #EXTINF:-1 ,中国教育4台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 #EXTINF:-1 ,早期教育
-https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
+http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD
 #EXTINF:-1 ,浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 #EXTINF:-1 ,浙江卫视
@@ -359,6 +365,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 ,甘肃卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1 ,甘肃卫视
+http://[2409:8087:74F1:0021::0009]:80/PLTV/88888888/224/3221226240/1.m3u8
+#EXTINF:-1 ,甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 ,青海卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
@@ -388,8 +396,6 @@ http://php.jdshipin.com:8880/xztv.php?id=ws
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 ,新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://php.jdshipin.com:8880/xjtv.php?id=xjws
 #EXTINF:-1 ,新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 ,兵团卫视
@@ -427,11 +433,7 @@ http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 ,内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 ,汽摩
-https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
-#EXTINF:-1 ,汽摩
-https://qist.cc/live/gzyd.php?id=qm
-#EXTINF:-1 ,靓妆
-https://live.goodiptv.club/api/cqyx.php?id=liang
+http://php.jdshipin.com:8880/cqyx.php?id=cqcarSD
 #EXTINF:-1 ,中国天气
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8?
 #EXTINF:-1 ,中国天气
@@ -495,13 +497,19 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 ,广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1 ,广东珠江
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+#EXTINF:-1 ,广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+#EXTINF:-1 ,广东珠江
+http://86.tvzb.asia/cd.php?id=gdzj
 #EXTINF:-1 ,广东新闻
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+#EXTINF:-1 ,广东新闻
+http://86.tvzb.asia/cd.php?id=gdxw
 #EXTINF:-1 ,广东影视
 https://php.17186.eu.org/gdtv/gdys.m3u8
 #EXTINF:-1 ,广东影视
-http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
+http://86.tvzb.asia/cd.php?id=gdys
 #EXTINF:-1 ,广东体育
 https://php.17186.eu.org/gdtv/gdty.m3u8
 #EXTINF:-1 ,广东体育
@@ -523,23 +531,21 @@ https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/in
 #EXTINF:-1 ,黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 ,重庆影视
-https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
+http://php.jdshipin.com:8880/cqyx.php?id=cqyingshiHD
 #EXTINF:-1 ,西藏影视文化
 http://php.jdshipin.com:8880/xztv.php?id=ys
 #EXTINF:-1 ,西部电影
 http://php.jdshipin.com:8880/qly.php?id=6332
 #EXTINF:-1 ,西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
-#EXTINF:-1 ,陕西影视
-http://php.jdshipin.com:8880/qly.php?id=6329
 #EXTINF:-1 ,江苏影视
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 #EXTINF:-1 ,江苏影视
-http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?&encrypt=
+https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
 #EXTINF:-1 ,湖北影视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
-#EXTINF:-1 ,湖北影视
-http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000
+#EXTINF:-1 ,甘肃文化影视
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
 #EXTINF:-1 ,安徽影视
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 #EXTINF:-1 ,安徽影视
@@ -657,7 +663,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?ch
 #EXTINF:-1 ,生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 ,中华特产
-https://live.goodiptv.club/api/cqyx.php?id=techan
+http://php.jdshipin.com:8880/cqyx.php?id=techan
 #EXTINF:-1 ,精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 #EXTINF:-1 ,新视觉
@@ -697,17 +703,13 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221
 #EXTINF:-1 ,女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 ,卫生健康
-https://cfyy.cc/ds/ysp/qp.php?id=wsjk
+http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
 #EXTINF:-1 ,中国交通
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 ,无线新闻
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 ,无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 ,无线新闻
-https://sc2024.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 ,无线新闻
-http://tvpo1.rbq.plus/news/news.stream/chunklist.m3u8
 #EXTINF:-1 ,无线财经
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 ,无线财经
@@ -812,6 +814,32 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 ,Channel [V]
 http://r.jdshipin.com/dMphc
+#EXTINF:-1 ,虎牙一起看.周星驰
+http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.周星驰粤语
+http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.林正英
+http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.成龙
+http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.沈腾
+http://tx-screenshots.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.徐峥黄渤
+http://tx-screenshots.flv.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.甄子丹
+http://tx-screenshots.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.李连杰
+http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.周润发
+http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.洪金宝
+http://tx-screenshots.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.许氏三杰
+http://tx-screenshots.flv.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.五福星
+http://tx-screenshots.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
+#EXTINF:-1 ,虎牙一起看.粤语电影
+http://tx-screenshots.flv.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
 #EXTINF:-1 ,精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 ,爱电竞
@@ -824,14 +852,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
 #EXTINF:-1 ,爱怀旧
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
-#EXTINF:-1 ,爱极限
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
-#EXTINF:-1 ,爱家庭
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
-#EXTINF:-1 ,爱江湖
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
-#EXTINF:-1 ,爱解密
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 #EXTINF:-1 ,爱经典
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
 #EXTINF:-1 ,爱科幻
@@ -842,24 +862,14 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
 #EXTINF:-1 ,爱历史
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 ,爱猎奇
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
 #EXTINF:-1 ,爱旅行
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 ,爱美食
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
 #EXTINF:-1 ,爱奇谈
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
 #EXTINF:-1 ,爱青春
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 #EXTINF:-1 ,爱赛车
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 ,爱时尚
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
-#EXTINF:-1 ,爱世界
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
-#EXTINF:-1 ,爱探索
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
 #EXTINF:-1 ,爱体育
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 #EXTINF:-1 ,爱玩具
@@ -870,8 +880,6 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 #EXTINF:-1 ,爱幼教
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 ,爱娱乐
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 #EXTINF:-1 ,爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 #EXTINF:-1 ,华语影院
@@ -912,36 +920,24 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 #EXTINF:-1 ,国学
 http://php.jdshipin.com:8880/hntv.php?id=gxpd
-#EXTINF:-1 ,国学
-https://live.goodiptv.club/api/cqyx.php?id=guoxue
 #EXTINF:-1 ,老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
-#EXTINF:-1 ,老故事
-https://qist.cc/live/gzyd.php?id=lgs
 #EXTINF:-1 ,发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 ,发现之旅
-https://qist.cc/live/gzyd.php?id=fxzl
 #EXTINF:-1 ,中学生
-https://live.goodiptv.club/api/cqyx.php?id=qicai
-#EXTINF:-1 ,中学生
-https://qist.cc/live/gzyd.php?id=zxs
+http://php.jdshipin.com:8880/cqyx.php?id=qicai
 #EXTINF:-1 ,青岛中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 #EXTINF:-1 ,家庭理财
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 #EXTINF:-1 ,财富天下
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
-#EXTINF:-1 ,财富天下
-https://qist.cc/live/gzyd.php?id=cftx
 #EXTINF:-1 ,证券服务
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel62001/index.m3u8
 #EXTINF:-1 ,环球旅游
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11005/index.m3u8
 #EXTINF:-1 ,摄影
-https://live.goodiptv.club/api/cqyx.php?id=sheying
-#EXTINF:-1 ,摄影
-https://qist.cc/live/gzyd.php?id=sypd
+http://php.jdshipin.com:8880/cqyx.php?id=sheying
 #EXTINF:-1 ,天元围棋
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 ,书画频道
@@ -953,7 +949,7 @@ http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11004/i
 #EXTINF:-1 ,优漫卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 #EXTINF:-1 ,新动漫
-https://live.goodiptv.club/api/cqyx.php?id=dongman
+http://php.jdshipin.com:8880/cqyx.php?id=dongman
 #EXTINF:-1 ,优优宝贝
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11007/index.m3u8
 #EXTINF:-1 ,京视剧场
@@ -963,17 +959,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226241/index.m3u8
 #EXTINF:-1 ,弈坛春秋
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226245/index.m3u8
 #EXTINF:-1 ,四海钓鱼
-http://hlsbkmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?&encrypt=
+http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
 #EXTINF:-1 ,百姓健康
 https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 #EXTINF:-1 ,名师公开课
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000023702/index.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
 #EXTINF:-1 ,生态环境
-https://live.goodiptv.club/api/cqyx.php?id=shengtai
+http://php.jdshipin.com:8880/cqyx.php?id=shengtai
 #EXTINF:-1 ,收藏天下
 http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41111/index.m3u8
-#EXTINF:-1 ,环球奇观
-https://qist.cc/live/gzyd.php?id=hqqg
 #EXTINF:-1 ,北京IPTV4K
 http://php.jdshipin.com:8880/iptv.php?id=bj4k
 #EXTINF:-1 ,广东4K超高清
