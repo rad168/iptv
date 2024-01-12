@@ -17,8 +17,6 @@ http://r.jdshipin.com/krMB5
 #EXTINF:-1 ,CCTV4K
 http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 #EXTINF:-1 ,CCTV4K
-http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
-#EXTINF:-1 ,CCTV4K
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 #EXTINF:-1 ,CCTV16-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -86,18 +84,18 @@ http://epg.112114.xyz/douyu/9249162
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 ,CCTV3-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-#EXTINF:-1 ,CCTV5-4K
+#EXTINF:-1 ,CCTV5.超清
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 ,CCTV6.超清
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 ,CCTV8.超清
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 ,江苏移动影视轮播
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 ,赣州综合
 http://wb.jxgztv.com/live/gztv1.m3u8
 #EXTINF:-1 ,赣州综合
-http://115.150.63.77:85/tsfile/live/0001_50.m3u8?key=txiptv
+http://115.150.63.77:9902/tsfile/live/0001_50.m3u8?key=txiptv
 #EXTINF:-1 ,江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 ,江西卫视
@@ -119,11 +117,11 @@ http://php.jdshipin.com:8880/iptv.php?id=jxjy
 #EXTINF:-1 ,陶瓷频道
 http://php.jdshipin.com:8880/iptv.php?id=taoci
 #EXTINF:-1 ,凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 ,凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 ,凤凰香港
 http://r.jdshipin.com/NfC0f
 #EXTINF:-1 ,凤凰香港
@@ -137,11 +135,11 @@ http://r.jdshipin.com/0Rp07
 #EXTINF:-1 ,凤凰资讯
 https://qist.cc/live/sc.php?id=fhzx
 #EXTINF:-1 ,CCTV13
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 #EXTINF:-1 ,CCTV13
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 ,CCTV1
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 #EXTINF:-1 ,CCTV1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 ,CCTV2
@@ -149,11 +147,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212275
 #EXTINF:-1 ,CCTV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 #EXTINF:-1 ,CCTV3
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 ,CCTV4
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
 #EXTINF:-1 ,CCTV4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1 ,CCTV5
@@ -161,7 +159,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 ,CCTV5
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 ,CCTV5+
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 #EXTINF:-1 ,CCTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 #EXTINF:-1 ,CCTV6
@@ -169,11 +167,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212275
 #EXTINF:-1 ,CCTV6
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 ,CCTV7
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
 #EXTINF:-1 ,CCTV7
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 #EXTINF:-1 ,CCTV8
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
 #EXTINF:-1 ,CCTV8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 ,CCTV9
@@ -231,7 +229,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/index.m3u
 #EXTINF:-1 ,中国教育4台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 #EXTINF:-1 ,早期教育
-http://php.jdshipin.com:8880/cqyx.php?id=zaojiaoHD
+http://cdn.jdshipin.com:8880/gitv.php?id=G_CETV-ZQJY-CQ
 #EXTINF:-1 ,浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 #EXTINF:-1 ,浙江卫视
@@ -516,6 +514,8 @@ http://php.jdshipin.com:8880/chudian.php?id=gdxw
 https://php.17186.eu.org/gdtv/gdys.m3u8
 #EXTINF:-1 ,广东影视
 http://php.jdshipin.com:8880/chudian.php?id=gdys
+#EXTINF:-1 ,广东影视
+http://php.jdshipin.com:8880/iptv.php?id=gdys
 #EXTINF:-1 ,广东体育
 https://php.17186.eu.org/gdtv/gdty.m3u8
 #EXTINF:-1 ,广东体育
@@ -556,6 +556,8 @@ http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 #EXTINF:-1 ,安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 ,杭州影视
+http://cdn.jdshipin.com:8880/aikan.php?id=hzys
 #EXTINF:-1 ,黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 ,黑莓动画
@@ -899,7 +901,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 ,发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 ,中学生
-http://php.jdshipin.com:8880/cqyx.php?id=qicai
+http://cdn.jdshipin.com:8880/migu.php?id=zxs
 #EXTINF:-1 ,青岛中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 #EXTINF:-1 ,家庭理财
@@ -913,7 +915,7 @@ http://01c22eac3524bfc42dc12d59c25221ef.v.smtcdns.net/1301-tx.otvstream.otvcloud
 #EXTINF:-1 ,摄影
 http://php.jdshipin.com:8880/cqyx.php?id=sheying
 #EXTINF:-1 ,天元围棋
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 ,书画频道
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1 ,先锋乒羽
@@ -933,7 +935,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226241/index.m3u8
 #EXTINF:-1 ,弈坛春秋
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226245/index.m3u8
 #EXTINF:-1 ,四海钓鱼
-http://1.62.64.59/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
+http://cdn.jdshipin.com:8880/aikan.php?id=shdy
 #EXTINF:-1 ,百姓健康
 https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 #EXTINF:-1 ,名师公开课
