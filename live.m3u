@@ -51,9 +51,9 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u
 #EXTINF:-1 ,咪咕体育4K-2
 http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 ,欢笑剧场4K
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010001
 #EXTINF:-1 ,欢笑剧场4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 ,4K修复 7M2160HEVC
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 ,爱上4K
@@ -61,7 +61,7 @@ http://106.39.160.148/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlis
 #EXTINF:-1 ,爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 ,华数4K影视
-http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000003000004748
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 ,华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 ,华数4K影视
@@ -99,7 +99,7 @@ http://115.150.63.77:9902/tsfile/live/0001_50.m3u8?key=txiptv
 #EXTINF:-1 ,江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 ,江西卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000522
 #EXTINF:-1 ,江西新闻
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=jxxw
 #EXTINF:-1 ,江西都市
@@ -137,137 +137,137 @@ http://[2409:8087:7000:20::13]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 #EXTINF:-1 ,CCTV13
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 #EXTINF:-1 ,CCTV13
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000516
 #EXTINF:-1 ,CCTV1
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 ,CCTV1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000131
 #EXTINF:-1 ,CCTV2
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 ,CCTV2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000372
 #EXTINF:-1 ,CCTV3
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 ,CCTV3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
 #EXTINF:-1 ,CCTV4
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 ,CCTV4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000485
 #EXTINF:-1 ,CCTV5
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 ,CCTV5
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
 #EXTINF:-1 ,CCTV5+
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 ,CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000132
 #EXTINF:-1 ,CCTV6
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 ,CCTV6
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
 #EXTINF:-1 ,CCTV7
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 ,CCTV7
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000380
 #EXTINF:-1 ,CCTV8
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 ,CCTV8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
 #EXTINF:-1 ,CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 ,CCTV9
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000373
 #EXTINF:-1 ,CCTV10
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 ,CCTV10
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000375
 #EXTINF:-1 ,CCTV11
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 ,CCTV11
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000497
 #EXTINF:-1 ,CCTV12
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8
 #EXTINF:-1 ,CCTV12
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000377
 #EXTINF:-1 ,CCTV14
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8
 #EXTINF:-1 ,CCTV14
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000378
 #EXTINF:-1 ,CCTV15
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 ,CCTV15
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 ,CCTV16
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000501
 #EXTINF:-1 ,CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 ,CCTV16
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 #EXTINF:-1 ,CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 ,CCTV17
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000494
 #EXTINF:-1 ,CGTN
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 #EXTINF:-1 ,CGTN
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 ,CGTNDOCUMENTARY
-http://zteres.sn.chinamobile.com:6060/000000001000/7114647837765104058/index.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=3
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000528
 #EXTINF:-1 ,CGTNDOCUMENTARY
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1 ,中国教育1台
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000481
 #EXTINF:-1 ,中国教育1台
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
 #EXTINF:-1 ,中国教育2台
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000221
 #EXTINF:-1 ,中国教育3台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 #EXTINF:-1 ,中国教育3台
 https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8
 #EXTINF:-1 ,中国教育4台
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031126
 #EXTINF:-1 ,中国教育4台
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000219
 #EXTINF:-1 ,早期教育
 http://cdn.jdshipin.com:8880/gitv.php?id=G_CETV-ZQJY-CQ
 #EXTINF:-1 ,浙江卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 ,浙江卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000248
 #EXTINF:-1 ,湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000174
 #EXTINF:-1 ,金鹰纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000482
 #EXTINF:-1 ,金鹰卡通
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 ,金鹰卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 ,东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000182
 #EXTINF:-1 ,上海纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 ,哈哈炫动
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
 #EXTINF:-1 ,哈哈炫动
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 ,北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000173
 #EXTINF:-1 ,北京纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 ,卡酷少儿
-http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
 #EXTINF:-1 ,卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 ,山东卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-#EXTINF:-1 ,山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000364
 #EXTINF:-1 ,山东教育卫视
 http://zhuji.sdrnwl.cn:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 ,山东教育卫视
@@ -275,15 +275,15 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 ,安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 ,安徽卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000368
 #EXTINF:-1 ,重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 ,重庆卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000523
 #EXTINF:-1 ,广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 ,广东卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000341
 #EXTINF:-1 ,嘉佳卡通
 http://183.236.13.168:808/hls/60/index.m3u8
 #EXTINF:-1 ,嘉佳卡通
@@ -291,41 +291,41 @@ https://php.17186.eu.org/gdtv/web/jjkt.m3u8
 #EXTINF:-1 ,嘉佳卡通
 http://php.jdshipin.com:8880/PLTV/chudian.php?id=jjkt
 #EXTINF:-1 ,嘉佳卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000343
 #EXTINF:-1 ,深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 ,深圳卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000176
 #EXTINF:-1 ,江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 ,江苏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000177
 #EXTINF:-1 ,天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 ,天津卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000249
 #EXTINF:-1 ,湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 ,湖北卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000250
 #EXTINF:-1 ,黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 ,黑龙江卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000175
 #EXTINF:-1 ,辽宁卫视
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 ,辽宁卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000367
 #EXTINF:-1 ,四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 ,四川卫视
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006119/1.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=3
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840706BESTVSMGSMG9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUexeCsKxlG2LwkJhai31bTGuXYXralHX2VS7ob25to85GPdBSQnb6X4MP9N0MoC%2FOefakVOC0E4dsoMVDkuWsho
 #EXTINF:-1 ,东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 ,东南卫视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540417BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXv1bCET6%2FGP6LFvnNC2DgH0ZQXwaiVktPr6ILPKXqwO%2B40ghr%2F2EQqAw4TSfOQgwgjPkFLBGBm%2FRxwhWL4Q3uM
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000502
 #EXTINF:-1 ,厦门卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000193
 #EXTINF:-1 ,厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?1
 #EXTINF:-1 ,厦门卫视
@@ -333,15 +333,15 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3
 #EXTINF:-1 ,海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 ,海南卫视
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000262
 #EXTINF:-1 ,三沙卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=08984400000000060000000000000319
 #EXTINF:-1 ,三沙卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 ,广西卫视
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 ,广西卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg
 #EXTINF:-1 ,河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 ,河北卫视
@@ -351,7 +351,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 ,河南卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QOuXozn3alq9%2BUx7ZLG1w9aOfw%2Ftj8uByLI%2F9b3T9xKHSKRmZDiwMOFotvfGaGd4Uw
 #EXTINF:-1 ,云南卫视
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031120
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 #EXTINF:-1 ,云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 ,贵州卫视
@@ -363,13 +363,13 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/in
 #EXTINF:-1 ,吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 ,甘肃卫视
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031121
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 #EXTINF:-1 ,甘肃卫视
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031121
 #EXTINF:-1 ,甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 ,青海卫视
-http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000013359
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
 #EXTINF:-1 ,青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 #EXTINF:-1 ,青海卫视
@@ -379,9 +379,9 @@ https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63
 #EXTINF:-1 ,内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 ,陕西卫视
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000002000007495
 #EXTINF:-1 ,陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226457/index.m3u8
 #EXTINF:-1 ,山西卫视
 http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
 #EXTINF:-1 ,山西卫视
@@ -397,9 +397,9 @@ http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1 ,西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 ,新疆卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
-#EXTINF:-1 ,新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000316
 #EXTINF:-1 ,兵团卫视
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 #EXTINF:-1 ,兵团卫视
@@ -427,7 +427,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 #EXTINF:-1 ,康巴卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 ,康巴卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000005000266002
 #EXTINF:-1 ,安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 ,安多卫视
@@ -445,43 +445,43 @@ http://php.jdshipin.com:8880/cqyx.php?id=cqcarSD
 #EXTINF:-1 ,中国天气
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000005000031974
 #EXTINF:-1 ,中国天气
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000057
 #EXTINF:-1 ,湖南经视
-http://zteres.sn.chinamobile.com:6060/000000001000/6306119848317438256/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6306119848317438256
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
 #EXTINF:-1 ,湖南经视
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnjs
 #EXTINF:-1 ,湖南都市
-http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4682579636905393407
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
 #EXTINF:-1 ,湖南都市
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnds
 #EXTINF:-1 ,湖南爱晚
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hngg
 #EXTINF:-1 ,湖南电视剧
-http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8765482907954673867
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
 #EXTINF:-1 ,湖南电视剧
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hndsj
 #EXTINF:-1 ,湖南电影
-http://zteres.sn.chinamobile.com:6060/000000001000/7884242846753128038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7884242846753128038
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
 #EXTINF:-1 ,湖南电影
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hndy
 #EXTINF:-1 ,湖南娱乐
-http://zteres.sn.chinamobile.com:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
 #EXTINF:-1 ,湖南娱乐
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnyl
 #EXTINF:-1 ,湖南国际
-http://zteres.sn.chinamobile.com:6060/000000001000/5015828848322021526/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5015828848322021526
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1 ,湖南国际
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hngj
 #EXTINF:-1 ,湖南教育
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=hnjy
 #EXTINF:-1 ,上海新闻综合
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 #EXTINF:-1 ,东方影视
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 #EXTINF:-1 ,东方影视
 http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 ,上海第一财经
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
 #EXTINF:-1 ,东方财经
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003
 #EXTINF:-1 ,深圳财经生活
@@ -565,17 +565,17 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 ,CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 ,SITV都市剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226581/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 #EXTINF:-1 ,全纪实
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226580/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 #EXTINF:-1 ,游戏风云
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
 #EXTINF:-1 ,魅力足球
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 #EXTINF:-1 ,快乐垂钓
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226805/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
 #EXTINF:-1 ,茶
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226808/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
 #EXTINF:-1 ,超级综艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 ,超级体育
@@ -659,13 +659,13 @@ http://live.dxhmt.cn:9080/19903718786/503136115d714e6796389709a5c74f77.m3u8
 #EXTINF:-1 ,文物宝库
 http://php.jdshipin.com:8880/hntv.php?id=wwbk
 #EXTINF:-1 ,SITV法治天地
-http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
 #EXTINF:-1 ,SITV金色学堂
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000026105/1.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 #EXTINF:-1 ,动漫秀场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 ,生活时尚
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
 #EXTINF:-1 ,中华特产
 http://php.jdshipin.com:8880/cqyx.php?id=techan
 #EXTINF:-1 ,精彩综艺
@@ -677,9 +677,9 @@ http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&acce
 #EXTINF:-1 ,新视觉
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xsj
 #EXTINF:-1 ,劲爆体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 ,五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000007
 #EXTINF:-1 ,五星体育
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 ,七彩戏剧
@@ -741,7 +741,7 @@ https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 ,明珠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
 #EXTINF:-1 ,明珠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,J2
@@ -797,47 +797,47 @@ http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 ,Channel [V]
 http://wouu.net:9977/udp/239.93.0.157:2194
 #EXTINF:-1 ,精彩影视
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 #EXTINF:-1 ,爱电竞
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000054
 #EXTINF:-1 ,爱谍战
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000038
 #EXTINF:-1 ,爱动漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000059
 #EXTINF:-1 ,爱都市
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000039
 #EXTINF:-1 ,爱怀旧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000057
 #EXTINF:-1 ,爱经典
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000037
 #EXTINF:-1 ,爱科幻
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000033
 #EXTINF:-1 ,爱科学
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000047
 #EXTINF:-1 ,爱浪漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000035
 #EXTINF:-1 ,爱历史
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000046
 #EXTINF:-1 ,爱旅行
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000056
 #EXTINF:-1 ,爱奇谈
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000058
 #EXTINF:-1 ,爱青春
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000041
 #EXTINF:-1 ,爱赛车
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000055
 #EXTINF:-1 ,爱体育
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000060
 #EXTINF:-1 ,爱玩具
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053
 #EXTINF:-1 ,爱喜剧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000032
 #EXTINF:-1 ,爱悬疑
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036
 #EXTINF:-1 ,爱幼教
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
 #EXTINF:-1 ,爱院线
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
 #EXTINF:-1 ,华语影院
 http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 #EXTINF:-1 ,星光影院
@@ -869,11 +869,11 @@ http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
 #EXTINF:-1 ,百视通直播
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225849/index.m3u8
 #EXTINF:-1 ,电子竞技
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000015
 #EXTINF:-1 ,高清娱乐
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
 #EXTINF:-1 ,漫游世界
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000017
 #EXTINF:-1 ,国学
 http://php.jdshipin.com:8880/hntv.php?id=gxpd
 #EXTINF:-1 ,老故事
@@ -887,7 +887,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212276
 #EXTINF:-1 ,家庭理财
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 #EXTINF:-1 ,财富天下
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000163
 #EXTINF:-1 ,证券服务
 http://01c22eac3524bfc42dc12d59c25221ef.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel62001/index.m3u8
 #EXTINF:-1 ,环球旅游
@@ -899,7 +899,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/32212285
 #EXTINF:-1 ,书画频道
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF:-1 ,先锋乒羽
-http://zteres.sn.chinamobile.com:6060/000000001000/4886720949268374180/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4886720949268374180
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4886720949268374180
 #EXTINF:-1 ,车迷
 http://01c22eac3524bfc42dc12d59c25221ef.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11004/index.m3u8
 #EXTINF:-1 ,优漫卡通
