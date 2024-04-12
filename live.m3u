@@ -3,17 +3,11 @@
 #EXTINF:-1 ,纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 ,纯享4K
-http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-#EXTINF:-1 ,纯享4K
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-#EXTINF:-1 ,纯享4K
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 ,直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 ,CCTV4K
-http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-#EXTINF:-1 ,CCTV4K
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 ,CCTV4K
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
 #EXTINF:-1 ,CCTV4K
@@ -21,13 +15,13 @@ http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 #EXTINF:-1 ,CCTV4K
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 #EXTINF:-1 ,CCTV16-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 ,CCTV16-4K
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 #EXTINF:-1 ,CCTV16-4K
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000008000023254
 #EXTINF:-1 ,CCTV16-4K
 http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
+#EXTINF:-1 ,CCTV16-4K
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv16-4k
 #EXTINF:-1 ,CCTV16-4K 18M2160
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 ,CCTV16-4K 25M2160
@@ -37,35 +31,33 @@ http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 ,CCTV8K超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 ,CCTV8K超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 #EXTINF:-1 ,咪咕体育4K
 http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
 #EXTINF:-1 ,咪咕体育4K
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕体育4K
-http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 ,咪咕体育4K-2
 http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000015686
 #EXTINF:-1 ,咪咕体育4K-2
-http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 ,咪咕体育4K-2
-http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 ,欢笑剧场4K
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010001
+#EXTINF:-1 ,欢笑剧场4K
+http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
+#EXTINF:-1 ,欢笑剧场4K
+http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
 #EXTINF:-1 ,欢笑剧场4K
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 ,4K修复 7M2160HEVC
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 ,爱上4K
-http://106.39.160.148/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1
+http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000459
 #EXTINF:-1 ,爱上4K
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 ,华数4K影视
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 ,华数4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 ,华数4K影视
-http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 ,河南卫视4K测试
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 ,北京纪实8K
@@ -129,11 +121,11 @@ http://php.jdshipin.com:8880/fhhk.php
 #EXTINF:-1 ,凤凰中文
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 ,凤凰中文
-http://[2409:8087:7000:20::16]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://[2409:8087:7000:20::13]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 ,CCTV13
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 #EXTINF:-1 ,CCTV13
@@ -685,29 +677,53 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 ,七彩戏剧
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
 #EXTINF:-1 ,兵器科技
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 ,兵器科技
+http://cdn.jdshipin.com:8880/ysp.php?id=bqkj
 #EXTINF:-1 ,电视指南
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 ,电视指南
+http://cdn.jdshipin.com:8880/ysp.php?id=dszn
 #EXTINF:-1 ,央视台球
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 ,央视台球
+http://cdn.jdshipin.com:8880/ysp.php?id=ystq
 #EXTINF:-1 ,高尔夫网球
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 ,高尔夫网球
+http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
 #EXTINF:-1 ,世界地理
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 ,世界地理
+http://cdn.jdshipin.com:8880/ysp.php?id=sjdl
 #EXTINF:-1 ,怀旧剧场
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 ,怀旧剧场
+http://cdn.jdshipin.com:8880/ysp.php?id=hjjc
 #EXTINF:-1 ,文化精品
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 ,文化精品
+http://cdn.jdshipin.com:8880/ysp.php?id=whjp
 #EXTINF:-1 ,风云剧场
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 ,风云剧场
+http://cdn.jdshipin.com:8880/ysp.php?id=fyjc
 #EXTINF:-1 ,第一剧场
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 ,第一剧场
+http://cdn.jdshipin.com:8880/ysp.php?id=dyjc
 #EXTINF:-1 ,风云音乐
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 ,风云音乐
+http://cdn.jdshipin.com:8880/ysp.php?id=fyyy
 #EXTINF:-1 ,风云足球
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 ,风云足球
+http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
 #EXTINF:-1 ,女性时尚
-http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 ,女性时尚
+http://cdn.jdshipin.com:8880/ysp.php?id=nxss
 #EXTINF:-1 ,卫生健康
 http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
 #EXTINF:-1 ,中国交通
@@ -877,15 +893,15 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000017
 #EXTINF:-1 ,国学
 http://php.jdshipin.com:8880/hntv.php?id=gxpd
 #EXTINF:-1 ,老故事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 ,发现之旅
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 #EXTINF:-1 ,中学生
 http://cdn.jdshipin.com:8880/migu.php?id=zxs
 #EXTINF:-1 ,青岛中华美食
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
 #EXTINF:-1 ,家庭理财
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000064
 #EXTINF:-1 ,财富天下
 http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000163
 #EXTINF:-1 ,证券服务
@@ -903,23 +919,23 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4886720949268374180
 #EXTINF:-1 ,车迷
 http://01c22eac3524bfc42dc12d59c25221ef.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11004/index.m3u8
 #EXTINF:-1 ,优漫卡通
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 ,新动漫
 http://php.jdshipin.com:8880/cqyx.php?id=dongman
 #EXTINF:-1 ,优优宝贝
 http://1.62.64.59/645c6e6320d051d49b446bac57d65143.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11007/index.m3u8
 #EXTINF:-1 ,京视剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226242/index.m3u8
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226242/index.m3u8
 #EXTINF:-1 ,置业频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226241/index.m3u8
+http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226241/index.m3u8
 #EXTINF:-1 ,弈坛春秋
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226245/index.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226245/index.m3u8
 #EXTINF:-1 ,四海钓鱼
 http://cdn.jdshipin.com:8880/aikan.php?id=shdy
 #EXTINF:-1 ,百姓健康
 https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 #EXTINF:-1 ,名师公开课
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000023702/index.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000016
 #EXTINF:-1 ,生态环境
 http://php.jdshipin.com:8880/cqyx.php?id=shengtai
 #EXTINF:-1 ,收藏天下
