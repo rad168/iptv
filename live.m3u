@@ -81,7 +81,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 #EXTINF:-1 ,CCTV8.超清
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 ,赣州新闻综合
-http://wb.jxgztv.com/live/gztv1.m3u8
+http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 #EXTINF:-1 ,赣州新闻综合
 http://115.150.63.77:9902/tsfile/live/0001_50.m3u8?key=txiptv
 #EXTINF:-1 ,江西卫视
@@ -891,7 +891,7 @@ https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 ,无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 ,无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 ,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,翡翠台
@@ -903,17 +903,19 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 ,华丽翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
 #EXTINF:-1 ,华丽翡翠台
-http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 ,TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 ,TVB星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 ,TVB星河
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 #EXTINF:-1 ,明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 ,明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 ,TVB生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 ,TVB Plus
@@ -921,13 +923,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 ,TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 #EXTINF:-1 ,TVB亚洲武侠
-http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-#EXTINF:-1 ,TVB亚洲武侠
-https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 ,TVB娱乐新闻台
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 ,TVB娱乐新闻台
-https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 ,VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 ,VIUTV
