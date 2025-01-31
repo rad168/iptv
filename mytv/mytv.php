@@ -14,7 +14,8 @@ $allowed_domains = [
     'cdn.163189.xyz',
     'cdn2.163189.xyz',
     'cdn3.163189.xyz',
-    'cdn5.163189.xyz'
+    'cdn5.163189.xyz',
+    'cdn9.163189.xyz'
 ];
 
 $parsed_url = parse_url($request_url);
@@ -44,6 +45,9 @@ curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
 curl_setopt($ch, CURLOPT_ENCODING, ""); // 自动解码 gzip/deflate
 
+// 禁用 HTTP/2，强制使用 HTTP/1.1
+curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, file_get_contents('php://input'));
@@ -65,14 +69,16 @@ if (strpos($request_url, '.m3u8') !== false) {
     $base_url = dirname($request_url) . '/';
     
     // 修正 TS 链接的替换逻辑
-    $response = preg_replace_callback('/https?:\/\/(?:'.implode('|', $allowed_domains).')\/([^\s"\r\n]*\.ts)/', function ($matches) {
-        return '/mytv.php?url=' . urlencode("https://" . $matches[1]);
+    $response = preg_replace_callback('/(https?:\/\/(?:' . implode('|', $allowed_domains) . ')\/[^\s"\r\n]*\.ts)|([^\s"\r\n]*\.ts)/', function ($matches) use ($base_url, $parsed_url) {
+        if (!empty($matches[1])) {
+            // 如果是带域名的 ts 链接，直接加上 /mytv.php?url=
+            return 'mytv.php?url=' . urlencode($matches[1]);
+        } elseif (!empty($matches[2])) {
+            // 如果是相对路径的 ts 链接，拼接完整的 URL，并保留文件路径
+            return 'mytv.php?url=' . urlencode($base_url . ltrim($matches[2], "/"));
+        }
     }, $response);
-    
-    // 处理相对路径 ts 链接
-    $response = preg_replace_callback('/^(?!https?:\/\/)([^\s"\r\n]*\.ts)/m', function ($matches) use ($base_url, $parsed_url) {
-        return '/mytv.php?url=' . urlencode($base_url . ltrim($matches[1], "/"));
-    }, $response);
+
 }
 
 echo $response;
