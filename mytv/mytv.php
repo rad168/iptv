@@ -24,6 +24,19 @@ if (!$parsed_url || !isset($parsed_url['host']) || !in_array($parsed_url['host']
     die('非法请求的域名');
 }
 
+//自定义 getallheaders() 函数，使得代码可以兼容 FastCGI 模式
+if (!function_exists('getallheaders')) {
+    function getallheaders() {
+        $headers = [];
+        foreach ($_SERVER as $name => $value) {
+            if (substr($name, 0, 5) == 'HTTP_') {
+                $headers[str_replace(' ', '-', ucwords(strtolower(str_replace('_', ' ', substr($name, 5)))))] = $value;
+            }
+        }
+        return $headers;
+    }
+}
+
 // 处理 HTTP 头信息
 $headers = [];
 foreach (getallheaders() as $name => $value) {
