@@ -1,0 +1,320 @@
+#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
+http://服务器ip:20000/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
+http://服务器ip:20003/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
+http://服务器ip:20000/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
+http://服务器ip:20006/live/cctv1/stream.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
+http://服务器ip:20000/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+http://服务器ip:20000/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+http://服务器ip:20006/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
+http://服务器ip:20006/live/viu/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+http://服务器ip:20006/live/rthk31/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+http://服务器ip:20006/live/rthk32/stream.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" group-title="mytv",澳视澳门
+http://服务器ip:20000/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
+http://服务器ip:20000/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
+http://服务器ip:20001/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
+http://服务器ip:20001/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
+http://服务器ip:20003/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVB J1
+http://服务器ip:20001/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://服务器ip:20001/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://服务器ip:20006/live/mzt/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://服务器ip:20003/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" group-title="mytv",广东珠江
+http://服务器ip:20007/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="mytv",广东体育
+http://服务器ip:20007/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
+http://服务器ip:20003/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="CH5" group-title="mytv",CH5
+http://服务器ip:20003/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-name="CH8" group-title="mytv",CH8
+http://服务器ip:20003/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-name="CHU" group-title="mytv",CHU
+http://服务器ip:20003/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="龙华电影" group-title="mytv",龙华电影
+http://服务器ip:20009/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="龙华经典" group-title="mytv",龙华经典
+http://服务器ip:20009/live/lhjd/stream.m3u8
+#EXTINF:-1 tvg-name="龙华卡通" group-title="mytv",龙华卡通
+http://服务器ip:20009/live/lhkt/stream.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" group-title="mytv",龙华偶像
+http://服务器ip:20009/live/lhox/stream.m3u8
+#EXTINF:-1 tvg-name="龙华日韩" group-title="mytv",龙华日韩
+http://服务器ip:20009/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" group-title="mytv",龙华戏剧
+http://服务器ip:20009/live/lhxj/stream.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
+http://服务器ip:20009/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://服务器ip:20002/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+http://服务器ip:20002/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://服务器ip:20002/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://服务器ip:20002/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
+http://服务器ip:20002/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://服务器ip:20002/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
+http://服务器ip:20002/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
+http://服务器ip:20002/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
+http://服务器ip:20002/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
+http://服务器ip:20002/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+http://服务器ip:20002/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+http://服务器ip:20002/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
+http://服务器ip:20002/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
+http://服务器ip:20002/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
+http://服务器ip:20002/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
+http://服务器ip:20002/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
+http://服务器ip:20002/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+http://服务器ip:20002/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
+http://服务器ip:20002/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
+http://服务器ip:20002/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="爱奇艺" group-title="mytv",爱奇艺
+http://服务器ip:20002/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
+http://服务器ip:20002/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="Astro欢喜台" group-title="mytv",Astro欢喜台
+http://服务器ip:20002/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
+http://服务器ip:20002/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+http://服务器ip:20004/jade2/jade.stream/chunklist_w10008.m3u8
+#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
+http://服务器ip:20004/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
+http://服务器ip:20004/enew/enew.stream/chunklist_w100000003.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://服务器ip:20004/news/news.stream/chunklist_w10000005.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://服务器ip:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台
+http://服务器ip:20008/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台4K
+http://服务器ip:20008/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" group-title="AKTV",鳳凰中文
+http://服务器ip:20008/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="AKTV",鳳凰資訊
+http://服务器ip:20008/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="AKTV",鳳凰香港
+http://服务器ip:20008/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="AKTV",明珠台
+http://服务器ip:20008/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="AKTV",無線新聞台
+http://服务器ip:20008/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="AKTV",TVB Plus
+http://服务器ip:20008/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="AKTV",娛樂新聞台(HK)
+http://服务器ip:20008/stream/aktv/hk/AKTV.m3u8
+#EXTINF:-1 tvg-name="POPC" group-title="AKTV",PopC
+http://服务器ip:20008/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亚电影" group-title="AKTV",美亞電影台(HK)
+http://服务器ip:20008/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧经典台" group-title="AKTV",千禧經典台(HK)
+http://服务器ip:20008/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",黃金翡翠台
+http://服务器ip:20008/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="AKTV",无线新闻台(北美)
+http://服务器ip:20008/stream/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
+http://服务器ip:20008/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
+http://服务器ip:20008/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
+http://服务器ip:20008/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel 5 HD
+http://服务器ip:20008/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel 8 HD
+http://服务器ip:20008/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Channel U HD
+http://服务器ip:20008/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
+http://服务器ip:20008/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",myTV SUPER 18台
+http://服务器ip:20008/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",tvN
+http://服务器ip:20008/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",ROCK Action
+http://服务器ip:20008/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Animax(HK)
+http://服务器ip:20008/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="THRILL" group-title="AKTV",Thrill
+http://服务器ip:20008/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Asian Action
+http://服务器ip:20008/stream/astro_a1/asianaction/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Astro AEC
+http://服务器ip:20008/stream/astro_a1/astroaec/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Celestial Movies
+http://服务器ip:20008/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",CINEMAWORLD
+http://服务器ip:20008/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",FIGHT SPORTS
+http://服务器ip:20008/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",KIX
+http://服务器ip:20008/stream/astro_a1/ch38/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Mediacorp Entertainment Chinese
+http://服务器ip:20008/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",NBA TV
+http://服务器ip:20008/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Sukan
+http://服务器ip:20008/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Sukan[备用]
+http://服务器ip:20008/stream/astro_a1/ch90/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",TV9
+http://服务器ip:20008/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",TVB Jade
+http://服务器ip:20008/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",TVB Xing He
+http://服务器ip:20008/stream/astro_a1/tvbxinghe/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Unifi Sport
+http://服务器ip:20008/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",曼聯電視頻道
+http://服务器ip:20008/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Astro Football
+http://服务器ip:20008/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Astro IQIYI
+http://服务器ip:20008/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Astro 欢喜台
+http://服务器ip:20008/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",France 24
+http://服务器ip:20008/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",DW
+http://服务器ip:20008/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="AKTV",東方衛視國際頻道
+http://服务器ip:20008/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",KIX
+http://服务器ip:20008/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Nick Jr
+http://服务器ip:20008/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Nickelodeon
+http://服务器ip:20008/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",AXN
+http://服务器ip:20008/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",NHK World-Japan
+http://服务器ip:20008/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",ZooMoo
+http://服务器ip:20008/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",NHK東京総合
+http://服务器ip:20008/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Love Nature HD
+http://服务器ip:20008/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龍華偶像台
+http://服务器ip:20008/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龍華日韓台
+http://服务器ip:20008/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",龍華電影台
+http://服务器ip:20008/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",C+
+http://服务器ip:20008/stream/tuntun/c/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Love Nature 4K
+http://服务器ip:20008/stream/tuntun/lovenature4k/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",Red Bull Sports
+http://服务器ip:20008/stream/tuntun/redbullsports/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",NTV NEWS 24
+http://服务器ip:20008/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1 group-title="AKTV",viuTV
+http://服务器ip:20008/stream/useradd1/viutv/AKTV.m3u8
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="mytv测试",CCTV1
+http://服务器ip:20010/cctv1/index.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="mytv测试",CCTV2
+http://服务器ip:20010/cctv2/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="mytv测试",CCTV3
+http://服务器ip:20010/cctv3/index.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="mytv测试",CCTV4
+http://服务器ip:20010/cctv4/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="mytv测试",CCTV5
+http://服务器ip:20010/cctv5/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="mytv测试",CCTV5+
+http://服务器ip:20010/cctv5plus/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="mytv测试",CCTV6
+http://服务器ip:20010/cctv6/index.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="mytv测试",CCTV7
+http://服务器ip:20010/cctv7/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="mytv测试",CCTV8
+http://服务器ip:20010/cctv8/index.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="mytv测试",CCTV9
+http://服务器ip:20010/cctv9/index.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="mytv测试",CCTV10
+http://服务器ip:20010/cctv10/index.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="mytv测试",CCTV11
+http://服务器ip:20010/cctv11/index.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="mytv测试",CCTV12
+http://服务器ip:20010/cctv12/index.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="mytv测试",CCTV13
+http://服务器ip:20010/cctv13/index.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="mytv测试",CCTV14
+http://服务器ip:20010/cctv14/index.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="mytv测试",CCTV15
+http://服务器ip:20010/cctv15/index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="mytv测试",CCTV16
+http://服务器ip:20010/cctv16/index.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="mytv测试",CCTV17
+http://服务器ip:20010/cctv17/index.m3u8
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="mytv测试",广东珠江
+http://服务器ip:20010/zhujiang/index.m3u8
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="mytv测试",大湾区卫视
+http://服务器ip:20010/dawanqu/index.m3u8
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="mytv测试",广东新闻
+http://服务器ip:20010/gdxinwen/index.m3u8
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="mytv测试",广东民生
+http://服务器ip:20010/gdminsheng/index.m3u8
+#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="mytv测试",广东影视
+http://服务器ip:20010/gdyingshi/index.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="mytv测试",广东体育
+http://服务器ip:20010/gdtiyu/index.m3u8
+#EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="mytv测试",潮州综合
+http://服务器ip:20010/chaozhouzonghe/index.m3u8
+#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="mytv测试",汕头综合
+http://服务器ip:20010/shantouzonghe/index.m3u8
+#EXTINF:-1,tvg-id="广东导视" tvg-name="广东导视" tvg-logo="https://epg.v1.mk/logo/广东导视.png" group-title="mytv测试",广东导视
+http://服务器ip:20010/gddaoshi/index.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="mytv测试",广电翡翠台
+http://服务器ip:20010/gdfeicuitai/index.m3u8
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="mytv测试",新视觉
+http://服务器ip:20010/gdxinshijue/index.m3u8
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="mytv测试",魅力足球
+http://服务器ip:20010/gdmeilizuqiu/index.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="mytv测试",湖南卫视
+http://服务器ip:20010/hunanweishi/index.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="mytv测试",浙江卫视
+http://服务器ip:20010/zhejiangweishi/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="mytv测试",江苏卫视
+http://服务器ip:20010/jiangsuweishi/index.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="mytv测试",东方卫视
+http://服务器ip:20010/dongfangweishi/index.m3u8
