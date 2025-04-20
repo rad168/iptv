@@ -257,7 +257,7 @@ http://服务器ip:20010/live/d/stream.m3u8
 #EXTINF:-1 group-title="测试",东森电影
 http://服务器ip:20010/live/dsdy/stream.m3u8
 #EXTINF:-1 group-title="测试",好莱坞电影
-http://服务器ip:20010/live/hwldy/stream.m3u8
+http://服务器ip:20010/live/hlwdy/stream.m3u8
 #EXTINF:-1 tvg-name="LSTIME电影台" group-title="测试",龙祥时代
 http://服务器ip:20010/live/lxsd/stream.m3u8
 #EXTINF:-1 tvg-name="纬来电影台" group-title="测试",纬来电影
