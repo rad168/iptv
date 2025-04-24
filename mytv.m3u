@@ -11,7 +11,7 @@ http://服务器ip:20006/live/cctv1/stream.m3u8
 #EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
 http://服务器ip:20000/live/tvbp/stream.m3u8
 #EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
-http://服务器ip:20000/live/hoy/stream.m3u8
+http://服务器ip:20003/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
 http://服务器ip:20006/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
