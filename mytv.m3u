@@ -262,3 +262,5 @@ http://服务器ip:20010/live/hlwdy/stream.m3u8
 http://服务器ip:20010/live/lxsd/stream.m3u8
 #EXTINF:-1 tvg-name="纬来电影台" group-title="测试",纬来电影
 http://服务器ip:20010/live/wldy/stream.m3u8
+#EXTINF:-1 group-title="测试",周星驰电影轮播
+http://服务器ip:20010/hw/live/zxx/stream.m3u8
