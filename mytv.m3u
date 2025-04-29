@@ -65,6 +65,8 @@ http://服务器ip:20009/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
 http://服务器ip:20009/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://服务器ip:20002/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://服务器ip:20002/smt3.2.1.php?id=jade_xue
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
 http://服务器ip:20002/smt3.2.1.php?id=Tvbjade
