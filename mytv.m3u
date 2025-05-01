@@ -65,55 +65,55 @@ http://服务器ip:20009/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
 http://服务器ip:20009/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://服务器ip:20002/smt3.2.1.php?id=jade_twn
+http://服务器ip:20002/smt3.2.1.php?id=jade_twn&smtm3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://服务器ip:20002/smt3.2.1.php?id=jade_xue
+http://服务器ip:20002/smt3.2.1.php?id=jade_xue&smtm3u8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
-http://服务器ip:20002/smt3.2.1.php?id=Tvbjade
+http://服务器ip:20002/smt3.2.1.php?id=Tvbjade&smtm3u8
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
-http://服务器ip:20002/smt3.2.1.php?id=pearl_twn
+http://服务器ip:20002/smt3.2.1.php?id=pearl_twn&smtm3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
-http://服务器ip:20002/smt3.2.1.php?id=inews_twn
+http://服务器ip:20002/smt3.2.1.php?id=inews_twn&smtm3u8
 #EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
-http://服务器ip:20002/smt3.2.1.php?id=j2_twn
+http://服务器ip:20002/smt3.2.1.php?id=j2_twn&smtm3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
-http://服务器ip:20002/smt3.2.1.php?id=Xinhe
+http://服务器ip:20002/smt3.2.1.php?id=Xinhe&smtm3u8
 #EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
-http://服务器ip:20002/smt3.2.1.php?id=Tvbclassic
+http://服务器ip:20002/smt3.2.1.php?id=Tvbclassic&smtm3u8
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
-http://服务器ip:20002/smt3.2.1.php?id=Tvbentertainment
+http://服务器ip:20002/smt3.2.1.php?id=Tvbentertainment&smtm3u8
 #EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
-http://服务器ip:20002/smt3.2.1.php?id=viu1_twn
+http://服务器ip:20002/smt3.2.1.php?id=viu1_twn&smtm3u8
 #EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
-http://服务器ip:20002/smt3.2.1.php?id=viusix_twn
+http://服务器ip:20002/smt3.2.1.php?id=viusix_twn&smtm3u8
 #EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
-http://服务器ip:20002/smt3.2.1.php?id=rhk31_twn
+http://服务器ip:20002/smt3.2.1.php?id=rhk31_twn&smtm3u8
 #EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
-http://服务器ip:20002/smt3.2.1.php?id=rhk32_twn
+http://服务器ip:20002/smt3.2.1.php?id=rhk32_twn&smtm3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
-http://服务器ip:20002/smt3.2.1.php?id=phoenixtv_hd
+http://服务器ip:20002/smt3.2.1.php?id=phoenixtv_hd&smtm3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
-http://服务器ip:20002/smt3.2.1.php?id=phoenixinfo_hd
+http://服务器ip:20002/smt3.2.1.php?id=phoenixinfo_hd&smtm3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
-http://服务器ip:20002/smt3.2.1.php?id=hkphoenix_twn
+http://服务器ip:20002/smt3.2.1.php?id=hkphoenix_twn&smtm3u8
 #EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
-http://服务器ip:20002/smt3.2.1.php?id=meiyamovie_twn
+http://服务器ip:20002/smt3.2.1.php?id=meiyamovie_twn&smtm3u8
 #EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
-http://服务器ip:20002/smt3.2.1.php?id=Celestial
+http://服务器ip:20002/smt3.2.1.php?id=Celestial&smtm3u8
 #EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
-http://服务器ip:20002/smt3.2.1.php?id=Celestial2
+http://服务器ip:20002/smt3.2.1.php?id=Celestial2&smtm3u8
 #EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
-http://服务器ip:20002/smt3.2.1.php?id=Aodhd
+http://服务器ip:20002/smt3.2.1.php?id=Aodhd&smtm3u8
 #EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
-http://服务器ip:20002/smt3.2.1.php?id=AEC
+http://服务器ip:20002/smt3.2.1.php?id=AEC&smtm3u8
 #EXTINF:-1 tvg-name="爱奇艺" group-title="mytv",爱奇艺
-http://服务器ip:20002/smt3.2.1.php?id=Qiyi
+http://服务器ip:20002/smt3.2.1.php?id=Qiyi&smtm3u8
 #EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
-http://服务器ip:20002/smt3.2.1.php?id=Quanjia
+http://服务器ip:20002/smt3.2.1.php?id=Quanjia&smtm3u8
 #EXTINF:-1 tvg-name="Astro欢喜台" group-title="mytv",Astro欢喜台
-http://服务器ip:20002/smt3.2.1.php?id=Huahee
+http://服务器ip:20002/smt3.2.1.php?id=Huahee&smtm3u8
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
-http://服务器ip:20002/smt3.2.1.php?id=TV8
+http://服务器ip:20002/smt3.2.1.php?id=TV8&smtm3u8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
 http://服务器ip:20004/jade2/jade.stream/chunklist_w10008.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
