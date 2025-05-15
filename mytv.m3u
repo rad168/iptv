@@ -124,145 +124,45 @@ http://服务器ip:20004/enew/enew.stream/chunklist_w100000003.m3u8
 http://服务器ip:20004/news/news.stream/chunklist_w10000005.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 http://服务器ip:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台测试
+http://服务器ip:20010/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台测试
+http://服务器ip:20010/o12/hls/mzt/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K测试
+http://服务器ip:20010/o12/hls/fct4k/playlist.m3u8
 
-#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台
-http://服务器ip:20008/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="AKTV",翡翠台4K
-http://服务器ip:20008/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" group-title="AKTV",鳳凰中文
-http://服务器ip:20008/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="AKTV",鳳凰資訊
-http://服务器ip:20008/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" group-title="AKTV",鳳凰香港
-http://服务器ip:20008/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="明珠台" group-title="AKTV",明珠台
-http://服务器ip:20008/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="AKTV",無線新聞台
-http://服务器ip:20008/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB PLUS" group-title="AKTV",TVB Plus
-http://服务器ip:20008/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-name="娱乐新闻台" group-title="AKTV",娛樂新聞台(HK)
-http://服务器ip:20008/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="POPC" group-title="AKTV",PopC
-http://服务器ip:20008/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亚电影" group-title="AKTV",美亞電影台(HK)
-http://服务器ip:20008/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="千禧经典台" group-title="AKTV",千禧經典台(HK)
-http://服务器ip:20008/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",黃金翡翠台
-http://服务器ip:20008/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-name="无线新闻" group-title="AKTV",无线新闻台(北美)
-http://服务器ip:20008/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠综合台(北美)
-http://服务器ip:20008/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",翡翠剧集台(北美)
-http://服务器ip:20008/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",明珠剧集台(北美)
-http://服务器ip:20008/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 5 HD
-http://服务器ip:20008/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 8 HD
-http://服务器ip:20008/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel U HD
-http://服务器ip:20008/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",28 AI 智慧賽馬
-http://服务器ip:20008/stream/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",myTV SUPER 18台
-http://服务器ip:20008/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",tvN
-http://服务器ip:20008/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ROCK Action
-http://服务器ip:20008/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Animax(HK)
-http://服务器ip:20008/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="THRILL" group-title="AKTV",Thrill
-http://服务器ip:20008/stream/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Asian Action
-http://服务器ip:20008/stream/astro_a1/asianaction/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro AEC
-http://服务器ip:20008/stream/astro_a1/astroaec/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Celestial Movies
-http://服务器ip:20008/stream/astro_a1/celestialmovies/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",CINEMAWORLD
-http://服务器ip:20008/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",FIGHT SPORTS
-http://服务器ip:20008/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",KIX
-http://服务器ip:20008/stream/astro_a1/ch38/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Mediacorp Entertainment Chinese
-http://服务器ip:20008/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NBA TV
-http://服务器ip:20008/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Sukan
-http://服务器ip:20008/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Sukan[备用]
-http://服务器ip:20008/stream/astro_a1/ch90/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TV9
-http://服务器ip:20008/stream/astro_a1/ch18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB Jade
-http://服务器ip:20008/stream/astro_a1/tvbjade/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TVB Xing He
-http://服务器ip:20008/stream/astro_a1/tvbxinghe/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Unifi Sport
-http://服务器ip:20008/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",曼聯電視頻道
-http://服务器ip:20008/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro Football
-http://服务器ip:20008/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro IQIYI
-http://服务器ip:20008/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Astro 欢喜台
-http://服务器ip:20008/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",France 24
-http://服务器ip:20008/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",DW
-http://服务器ip:20008/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="AKTV",東方衛視國際頻道
-http://服务器ip:20008/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",KIX
-http://服务器ip:20008/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nick Jr
-http://服务器ip:20008/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Nickelodeon
-http://服务器ip:20008/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",AXN
-http://服务器ip:20008/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK World-Japan
-http://服务器ip:20008/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",ZooMoo
-http://服务器ip:20008/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NHK東京総合
-http://服务器ip:20008/stream/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature HD
-http://服务器ip:20008/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華偶像台
-http://服务器ip:20008/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華日韓台
-http://服务器ip:20008/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",龍華電影台
-http://服务器ip:20008/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",C+
-http://服务器ip:20008/stream/tuntun/c/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Love Nature 4K
-http://服务器ip:20008/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Red Bull Sports
-http://服务器ip:20008/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NTV NEWS 24
-http://服务器ip:20008/stream/useradd1/ntvnews24/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",viuTV
-http://服务器ip:20008/stream/useradd1/viutv/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="NOW新闻" group-title="测试",NOW新闻台
-http://服务器ip:20010/live/now/stream.m3u8
-#EXTINF:-1 group-title="测试",Discovery
-http://服务器ip:20010/live/d/stream.m3u8
-#EXTINF:-1 group-title="测试",东森电影
-http://服务器ip:20010/live/dsdy/stream.m3u8
-#EXTINF:-1 group-title="测试",好莱坞电影
-http://服务器ip:20010/live/hlwdy/stream.m3u8
-#EXTINF:-1 tvg-name="LSTIME电影台" group-title="测试",龙祥时代
-http://服务器ip:20010/live/lxsd/stream.m3u8
-#EXTINF:-1 tvg-name="纬来电影台" group-title="测试",纬来电影
-http://服务器ip:20010/live/wldy/stream.m3u8
-#EXTINF:-1 group-title="测试",周星驰电影轮播
-http://服务器ip:20010/hw/live/zxx/stream.m3u8
+#EXTINF:-1 group-title="tvfix",翡翠台
+http://服务器ip:20005/live/jade/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVB Plus
+http://服务器ip:20005/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="tvfix",无线新闻台
+http://服务器ip:20005/live/inews/index.m3u8
+#EXTINF:-1 group-title="tvfix",明珠台
+http://服务器ip:20005/live/pearl/index.m3u8
+#EXTINF:-1 group-title="tvfix",娱乐新闻台
+http://服务器ip:20005/live/enews/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰中文
+http://服务器ip:20005/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰资讯
+http://服务器ip:20005/live/fwzx/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰香港
+http://服务器ip:20005/live/fwxg/index.m3u8
+#EXTINF:-1 group-title="tvfix",CCTV-1高清
+http://服务器ip:20005/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN纪录高清
+http://服务器ip:20005/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN高清
+http://服务器ip:20005/live/cgtnhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",中国电影频道
+http://服务器ip:20005/live/cmc/index.m3u8
+#EXTINF:-1 group-title="tvfix",东方卫视国际
+http://服务器ip:20005/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",Animax
+http://服务器ip:20005/live/animax/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS
+http://服务器ip:20005/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS新闻台
+http://服务器ip:20005/live/tvbsnews/index.m3u8
+#EXTINF:-1 group-title="tvfix",亚洲新闻台
+http://服务器ip:20005/live/newsasia/index.m3u8
