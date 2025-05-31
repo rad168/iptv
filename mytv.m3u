@@ -65,55 +65,55 @@ http://服务器ip:20009/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
 http://服务器ip:20009/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://服务器ip:20002/smt3.2.1.php?id=jade_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://服务器ip:20002/smt3.2.1.php?id=jade_xue&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=jade_xue
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
-http://服务器ip:20002/smt3.2.1.php?id=Tvbjade&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Tvbjade
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
-http://服务器ip:20002/smt3.2.1.php?id=pearl_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=pearl_twn
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
-http://服务器ip:20002/smt3.2.1.php?id=inews_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS
-http://服务器ip:20002/smt3.2.1.php?id=j2_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=j2_twn
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
-http://服务器ip:20002/smt3.2.1.php?id=Xinhe&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Xinhe
 #EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
-http://服务器ip:20002/smt3.2.1.php?id=Tvbclassic&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
-http://服务器ip:20002/smt3.2.1.php?id=Tvbentertainment&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Tvbentertainment
 #EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
-http://服务器ip:20002/smt3.2.1.php?id=viu1_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=viu1_twn
 #EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
-http://服务器ip:20002/smt3.2.1.php?id=viusix_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=viusix_twn
 #EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
-http://服务器ip:20002/smt3.2.1.php?id=rhk31_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=rhk31_twn
 #EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
-http://服务器ip:20002/smt3.2.1.php?id=rhk32_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=rhk32_twn
 #EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
-http://服务器ip:20002/smt3.2.1.php?id=phoenixtv_hd&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
-http://服务器ip:20002/smt3.2.1.php?id=phoenixinfo_hd&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
-http://服务器ip:20002/smt3.2.1.php?id=hkphoenix_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-name="美亚电影" group-title="mytv",美亚电影台
-http://服务器ip:20002/smt3.2.1.php?id=meiyamovie_twn&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
-http://服务器ip:20002/smt3.2.1.php?id=Celestial&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Celestial
 #EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
-http://服务器ip:20002/smt3.2.1.php?id=Celestial2&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Celestial2
 #EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
-http://服务器ip:20002/smt3.2.1.php?id=Aodhd&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Aodhd
 #EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
-http://服务器ip:20002/smt3.2.1.php?id=AEC&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=AEC
 #EXTINF:-1 tvg-name="爱奇艺" group-title="mytv",爱奇艺
-http://服务器ip:20002/smt3.2.1.php?id=Qiyi&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Qiyi
 #EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
-http://服务器ip:20002/smt3.2.1.php?id=Quanjia&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Quanjia
 #EXTINF:-1 tvg-name="Astro欢喜台" group-title="mytv",Astro欢喜台
-http://服务器ip:20002/smt3.2.1.php?id=Huahee&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
-http://服务器ip:20002/smt3.2.1.php?id=TV8&smtm3u8
+http://服务器ip:20002/smt3.2.1.php?id=TV8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
 http://服务器ip:20004/jade2/jade.stream/chunklist_w10008.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
@@ -130,7 +130,6 @@ http://服务器ip:20010/hls/fct/playlist.m3u8
 http://服务器ip:20010/o12/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K测试
 http://服务器ip:20010/o12/hls/fct4k/playlist.m3u8
-
 
 #EXTINF:-1 group-title="tvfix",翡翠台
 http://服务器ip:20005/live/jade/index.m3u8
@@ -166,3 +165,56 @@ http://服务器ip:20005/live/tvbs/index.m3u8
 http://服务器ip:20005/live/tvbsnews/index.m3u8
 #EXTINF:-1 group-title="tvfix",亚洲新闻台
 http://服务器ip:20005/live/newsasia/index.m3u8
+
+#EXTINF:-1 tvg-name="凤凰中文" group-title="jxiptv",鳳凰衛視中文台
+http://服务器ip:20010/jxiptv/stream/tvb/null/master.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="jxiptv",鳳凰衛視資訊台
+http://服务器ip:20010/jxiptv/stream/tvb/null-1/master.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="jxiptv",鳳凰衛視香港台
+http://服务器ip:20010/jxiptv/stream/tvb/null-2/master.m3u8
+#EXTINF:-1 group-title="jxiptv",翡翠台
+http://服务器ip:20010/jxiptv/stream/tvb/null-3/master.m3u8
+#EXTINF:-1 group-title="jxiptv",明珠台
+http://服务器ip:20010/jxiptv/stream/tvb/null-4/master.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="jxiptv",無線新聞台
+http://服务器ip:20010/jxiptv/stream/tvb/null-5/master.m3u8
+#EXTINF:-1 tvg-name="娱乐新闻台" group-title="jxiptv",娛樂新聞台
+http://服务器ip:20010/jxiptv/stream/tvb/null-6/master.m3u8
+#EXTINF:-1 group-title="jxiptv",黃金翡翠台
+http://服务器ip:20010/jxiptv/stream/tvb/null-7/master.m3u8
+#EXTINF:-1 tvg-name="美亚电影" group-title="jxiptv",美亞電影台
+http://服务器ip:20010/jxiptv/stream/tvb/null-8/master.m3u8
+#EXTINF:-1 tvg-name="POPC" group-title="jxiptv",PopC
+http://服务器ip:20010/jxiptv/stream/tvb/popc/master.m3u8
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="jxiptv",TVB Plus
+http://服务器ip:20010/jxiptv/stream/tvb/tvbplus/master.m3u8
+#EXTINF:-1 group-title="jxiptv",ROCK Action
+http://服务器ip:20010/jxiptv/stream/tvb/rockaction/master.m3u8
+#EXTINF:-1 group-title="jxiptv",Love Nature
+http://服务器ip:20010/jxiptv/stream/tvb/lovenature/master.m3u8
+#EXTINF:-1 group-title="jxiptv",myTV SUPER FREE
+http://服务器ip:20010/jxiptv/stream/tvb/mytvsuperfree/master.m3u8
+#EXTINF:-1 group-title="jxiptv",SUPER Kids Channel
+http://服务器ip:20010/jxiptv/stream/tvb/superkidschannel/master.m3u8
+#EXTINF:-1 group-title="jxiptv",粵語片台
+http://服务器ip:20010/jxiptv/stream/tvb/null-9/master.m3u8
+#EXTINF:-1 group-title="jxiptv",創世電視
+http://服务器ip:20010/jxiptv/stream/tvb/null-10/master.m3u8
+#EXTINF:-1 tvg-name="天映经典" group-title="jxiptv",天映經典頻道
+http://服务器ip:20010/jxiptv/stream/tvb/null-11/master.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="jxiptv",東方衛視國際頻道
+http://服务器ip:20010/jxiptv/stream/tvb/null-12/master.m3u8
+#EXTINF:-1 tvg-name="RTHK33" group-title="jxiptv",中央電視台綜合頻道 (港澳版)
+http://服务器ip:20010/jxiptv/stream/tvb/null-13/master.m3u8
+#EXTINF:-1 group-title="jxiptv",猫和老鼠
+http://服务器ip:20010/huya/stream/huya/null-4/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 group-title="jxiptv",死神系列
+http://服务器ip:20010/huya/stream/huya/null-1/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 group-title="jxiptv",水浒剧场
+http://服务器ip:20010/huya/stream/huya/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 group-title="jxiptv",周星驰专场
+http://服务器ip:20010/huya/stream/huya/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 group-title="jxiptv",林正英专场
+http://服务器ip:20010/huya/stream/huya/null-2/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
+#EXTINF:-1 group-title="jxiptv",陈翔六点半
+http://服务器ip:20010/huya/stream/huya/null/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
