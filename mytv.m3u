@@ -25,15 +25,19 @@ http://服务器ip:20000/live/asam/stream.m3u8
 #EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
 http://服务器ip:20000/live/as/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
-http://服务器ip:20001/live/cwjd/stream.m3u8
+http://服务器ip:20003/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
-http://服务器ip:20001/live/fhzx/stream.m3u8
+http://服务器ip:20003/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
 http://服务器ip:20003/live/fhhk/stream.m3u8
-#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVB J1
-http://服务器ip:20001/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
+http://服务器ip:20003/live/tvb1/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
+http://服务器ip:20003/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台" group-title="mytv",翡翠剧集台
+http://服务器ip:20003/live/tvbd/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://服务器ip:20001/live/fct/stream.m3u8
+http://服务器ip:20003/live/fct/stream.m3u8
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
 http://服务器ip:20006/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
@@ -115,15 +119,15 @@ http://服务器ip:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
 http://服务器ip:20002/smt3.2.1.php?id=TV8
 #EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
-http://服务器ip:20004/jade2/jade.stream/chunklist_w10008.m3u8
+http://服务器ip:20004/live/hlfct/stream.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
-http://服务器ip:20004/asia_action1/1asia_action.stream/chunklist_w6000001.m3u8
+http://服务器ip:20004/live/yzwx/stream.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻台" group-title="mytv",TVB娱乐新闻台
 http://服务器ip:20004/enew/enew.stream/chunklist_w100000003.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
 http://服务器ip:20004/news/news.stream/chunklist_w10000005.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
-http://服务器ip:20004/xinghe_1/xinghe_1.stream/chunklist_w100006.m3u8
+http://服务器ip:20004/live/tvbxh/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台测试
 http://服务器ip:20010/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台测试
