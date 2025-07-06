@@ -230,3 +230,72 @@ http://服务器ip:20008/aktv3/cna/AKTV.m3u8
 http://服务器ip:20008/aktv3/kpop/AKTV.m3u8
 #EXTINF:30 group-title="AKTV" tvg-name="朝鲜中央电视台" provider="AKTV3" provider-logo="",📺 朝鲜中央电视台
 http://服务器ip:20008/aktv3/CH-0/AKTV.m3u8
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="mytv测试",CCTV1
+http://服务器ip:20006/cctv1/index.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="mytv测试",CCTV2
+http://服务器ip:20006/cctv2/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="mytv测试",CCTV3
+http://服务器ip:20006/cctv3/index.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="mytv测试",CCTV4
+http://服务器ip:20006/cctv4/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="mytv测试",CCTV5
+http://服务器ip:20006/cctv5/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="mytv测试",CCTV5+
+http://服务器ip:20006/cctv5plus/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="mytv测试",CCTV6
+http://服务器ip:20006/cctv6/index.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="mytv测试",CCTV7
+http://服务器ip:20006/cctv7/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="mytv测试",CCTV8
+http://服务器ip:20006/cctv8/index.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="mytv测试",CCTV9
+http://服务器ip:20006/cctv9/index.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="mytv测试",CCTV10
+http://服务器ip:20006/cctv10/index.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="mytv测试",CCTV11
+http://服务器ip:20006/cctv11/index.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="mytv测试",CCTV12
+http://服务器ip:20006/cctv12/index.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="mytv测试",CCTV13
+http://服务器ip:20006/cctv13/index.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="mytv测试",CCTV14
+http://服务器ip:20006/cctv14/index.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="mytv测试",CCTV15
+http://服务器ip:20006/cctv15/index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="mytv测试",CCTV16
+http://服务器ip:20006/cctv16/index.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="mytv测试",CCTV17
+http://服务器ip:20006/cctv17/index.m3u8
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="mytv测试",广东珠江
+http://服务器ip:20006/zhujiang/index.m3u8
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="mytv测试",大湾区卫视
+http://服务器ip:20006/dawanqu/index.m3u8
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="mytv测试",广东新闻
+http://服务器ip:20006/gdxinwen/index.m3u8
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="mytv测试",广东民生
+http://服务器ip:20006/gdminsheng/index.m3u8
+#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="mytv测试",广东影视
+http://服务器ip:20006/gdyingshi/index.m3u8
+#EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="mytv测试",广东体育
+http://服务器ip:20006/gdtiyu/index.m3u8
+#EXTINF:-1,tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://epg.v1.mk/logo/潮州综合.png" group-title="mytv测试",潮州综合
+http://服务器ip:20006/chaozhouzonghe/index.m3u8
+#EXTINF:-1,tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://epg.v1.mk/logo/汕头综合.png" group-title="mytv测试",汕头综合
+http://服务器ip:20006/shantouzonghe/index.m3u8
+#EXTINF:-1,tvg-id="广东导视" tvg-name="广东导视" tvg-logo="https://epg.v1.mk/logo/广东导视.png" group-title="mytv测试",广东导视
+http://服务器ip:20006/gddaoshi/index.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="mytv测试",广电翡翠台
+http://服务器ip:20006/gdfeicuitai/index.m3u8
+#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.v1.mk/logo/新视觉.png" group-title="mytv测试",新视觉
+http://服务器ip:20006/gdxinshijue/index.m3u8
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.v1.mk/logo/魅力足球.png" group-title="mytv测试",魅力足球
+http://服务器ip:20006/gdmeilizuqiu/index.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="mytv测试",湖南卫视
+http://服务器ip:20006/hunanweishi/index.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="mytv测试",浙江卫视
+http://服务器ip:20006/zhejiangweishi/index.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="mytv测试",江苏卫视
+http://服务器ip:20006/jiangsuweishi/index.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="mytv测试",东方卫视
+http://服务器ip:20006/dongfangweishi/index.m3u8
