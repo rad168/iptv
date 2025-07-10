@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://服务器ip/mytv.php?url=http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
