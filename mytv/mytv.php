@@ -16,13 +16,17 @@ $allowed_domains = [
     'cdn2.163189.xyz',
     'cdn3.163189.xyz',
     'cdn5.163189.xyz',
+    'cdn6.163189.xyz',
     'cdn9.163189.xyz'
 ];
 
 $parsed_url = parse_url($request_url);
+//说明：如果需要限制仅可代理指定域名的直播源，可以删除注释( /* 和 */ )，并在上面列表中添加你需要代理的网站域名。
+/*
 if (!$parsed_url || !isset($parsed_url['host']) || !in_array($parsed_url['host'], $allowed_domains)) {
     die('非法请求的域名');
 }
+*/
 
 //自定义 getallheaders() 函数，使得代码可以兼容 FastCGI 模式
 if (!function_exists('getallheaders')) {
