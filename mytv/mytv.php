@@ -147,7 +147,7 @@ if (
     strpos($request_url, '.m3u8') !== false ||
     stripos($content_type, 'mpegurl') !== false ||
     stripos($content_type, 'application/x-mpegurl') !== false ||
-    stripos($content_type, 'text/plain') !== false ||
+//    stripos($content_type, 'text/plain') !== false ||
     strpos(ltrim($body), '#EXTM3U') === 0
 ) {
     $is_m3u8 = true;
