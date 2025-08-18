@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
@@ -136,15 +136,13 @@ http://服务器ip/mytv.php?url=http://mytv.veryfast.filegear-sg.me/hls/fct/play
 http://服务器ip/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K测试
 http://服务器ip/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="mytv",欢笑剧场4K
-http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
-http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
-http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
-http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
-#EXTINF:-1 tvg-name="华语影院" group-title="mytv",华语影院
-http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
-#EXTINF:-1 tvg-name="星光影院" group-title="mytv",星光影院
-http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="mytv",深圳卫视4K
+http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+#EXTINF:-1 tvg-name="深圳财经生活" group-title="mytv",深圳财经生活
+http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+#EXTINF:-1 tvg-name="第一财经" group-title="mytv",第一财经
+http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+#EXTINF:-1 tvg-name="五星体育" group-title="mytv",五星体育
+http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
