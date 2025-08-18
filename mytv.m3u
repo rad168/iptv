@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K
 http://服务器ip:20003/live/fct4k/stream.m3u8
@@ -128,24 +128,22 @@ http://服务器ip:20004/live/ylxw/stream.m3u8
 http://服务器ip:20004/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 http://服务器ip:20004/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台测试
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台字幕
 http://服务器ip:20010/hls/fct/playlist.m3u8
-#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台测试
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台字幕
 http://服务器ip:20010/o12/hls/mzt/playlist.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K测试
 http://服务器ip:20010/o12/hls/fct4k/playlist.m3u8
-#EXTINF:-1 tvg-name="欢笑剧场" group-title="mytv",欢笑剧场4K
-http://服务器ip:20001/live/hxjc4k/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
-http://服务器ip:20001/live/cctv2/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
-http://服务器ip:20001/live/cctv4/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
-http://服务器ip:20001/live/cctv9/stream.m3u8
-#EXTINF:-1 tvg-name="华语影院" group-title="mytv",华语影院
-http://服务器ip:20001/live/hyyy/stream.m3u8
-#EXTINF:-1 tvg-name="星光影院" group-title="mytv",星光影院
-http://服务器ip:20001/live/xgyy/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+http://服务器ip:20001/live/cctv13/stream.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="mytv",深圳卫视4K
+http://服务器ip:20001/live/szws4k/stream.m3u8
+#EXTINF:-1 tvg-name="深圳财经生活" group-title="mytv",深圳财经生活
+http://服务器ip:20001/live/szcjsh/stream.m3u8
+#EXTINF:-1 tvg-name="第一财经" group-title="mytv",第一财经
+http://服务器ip:20001/live/dycj/stream.m3u8
+#EXTINF:-1 tvg-name="五星体育" group-title="mytv",五星体育
+http://服务器ip:20001/live/wxty/stream.m3u8
 
 #EXTINF:-1 group-title="tvfix",翡翠台
 http://服务器ip:20005/live/jade/index.m3u8
