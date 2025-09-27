@@ -24,6 +24,8 @@ http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/s
 http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
 #EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
 http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="澳门体育" group-title="mytv",澳门体育
+http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
 http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
