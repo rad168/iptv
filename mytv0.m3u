@@ -130,11 +130,11 @@ http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/str
 http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台测试
-http://服务器ip/mytv.php?url=http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台测试
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台字幕
+http://服务器ip/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台字幕
 http://服务器ip/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K测试
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K字幕
 http://服务器ip/mytv.php?url=http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
