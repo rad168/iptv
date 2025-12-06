@@ -12,6 +12,8 @@ http://服务器ip:20003/live/tvbp/stream.m3u8
 http://服务器ip:20003/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
 http://服务器ip:20000/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY剧集台" group-title="mytv",HOY剧集台
+http://服务器ip:20000/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-name="VIUTV" group-title="mytv",ViuTV
 http://服务器ip:20000/live/viu/stream.m3u8
 #EXTINF:-1 tvg-name="NOW新闻" group-title="mytv",NOW新闻台
