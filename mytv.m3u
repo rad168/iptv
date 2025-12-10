@@ -100,6 +100,8 @@ http://服务器ip:20002/smt3.2.1.php?id=Tvbentertainment
 http://服务器ip:20002/smt3.2.1.php?id=viu1_twn
 #EXTINF:-1 tvg-name="ViuTVSix" group-title="mytv",ViuTVSix
 http://服务器ip:20002/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY资讯台
+http://服务器ip:20002/smt3.2.1.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
 http://服务器ip:20002/smt3.2.1.php?id=rhk31_twn
 #EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
@@ -146,3 +148,5 @@ http://服务器ip:20010/o12/hls/mzt/playlist.m3u8
 http://服务器ip:20001/live/dycj/stream.m3u8
 #EXTINF:-1 tvg-name="五星体育" group-title="mytv",五星体育
 http://服务器ip:20001/live/wxty/stream.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
+http://服务器ip:20001/live/hxws/stream.m3u8
