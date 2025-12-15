@@ -82,7 +82,7 @@ http://服务器ip:20009/live/lhyp/stream.m3u8
 http://服务器ip:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://服务器ip:20002/smt3.2.1.php?id=jade_xue
-#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
 http://服务器ip:20002/smt3.2.1.php?id=Tvbjade
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
 http://服务器ip:20002/smt3.2.1.php?id=pearl_twn
@@ -130,7 +130,7 @@ http://服务器ip:20002/smt3.2.1.php?id=Quanjia
 http://服务器ip:20002/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
 http://服务器ip:20002/smt3.2.1.php?id=TV8
-#EXTINF:-1 tvg-name="华丽翡翠" group-title="mytv",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
 http://服务器ip:20004/live/hlfct/stream.m3u8
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
 http://服务器ip:20004/live/yzwx/stream.m3u8
@@ -150,3 +150,31 @@ http://服务器ip:20001/live/dycj/stream.m3u8
 http://服务器ip:20001/live/wxty/stream.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
 http://服务器ip:20001/live/hxws/stream.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
+http://服务器ip:20010/cdn9/live/jade/stream.m3u8
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://服务器ip:20010/cdn9/live/xinghe/stream.m3u8
+#EXTINF:-1 tvg-name="天映频道" group-title="mytv",天映频道
+http://服务器ip:20010/cdn9/live/typd/stream.m3u8
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+http://服务器ip:20010/cdn9/live/ccm/stream.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
+http://服务器ip:20006/stream/live/hlt/?163189
+#EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
+http://服务器ip:20006/stream/live/test/?163189
+#EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
+http://服务器ip:20006/stream/live/aec/?163189
+#EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
+http://服务器ip:20006/stream/live/qj/?163189
+#EXTINF:-1 tvg-name="Astro欢喜台" group-title="mytv",Astro欢喜台
+http://服务器ip:20006/stream/live/hxt/?163189
+#EXTINF:-1 tvg-name="爱奇艺" group-title="mytv",爱奇艺
+http://服务器ip:20006/stream/live/iqiyi/?163189
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
+http://服务器ip:20006/stream/live/typd/?163189
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+http://服务器ip:20006/stream/live/ccm/?163189
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://服务器ip:20006/stream/live/tvbxh/?163189
+#EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
+http://服务器ip:20006/stream/live/tvbc/?163189
