@@ -150,8 +150,6 @@ http://服务器ip:20001/live/dycj/stream.m3u8
 http://服务器ip:20001/live/wxty/stream.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
 http://服务器ip:20001/live/hxws/stream.m3u8
-#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
-http://服务器ip:20010/cdn9/live/jade/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 http://服务器ip:20010/cdn9/live/xinghe/stream.m3u8
 #EXTINF:-1 tvg-name="天映频道" group-title="mytv",天映频道
@@ -160,8 +158,10 @@ http://服务器ip:20010/cdn9/live/typd/stream.m3u8
 http://服务器ip:20010/cdn9/live/ccm/stream.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
 http://服务器ip:20006/stream/live/hlt/?163189
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台(新加坡)
+http://服务器ip:20006/stream/live/jade/?163189
 #EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
-http://服务器ip:20006/stream/live/test/?163189
+http://服务器ip:20006/stream/live/aod/?163189
 #EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
 http://服务器ip:20006/stream/live/aec/?163189
 #EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
@@ -178,3 +178,7 @@ http://服务器ip:20006/stream/live/ccm/?163189
 http://服务器ip:20006/stream/live/tvbxh/?163189
 #EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
 http://服务器ip:20006/stream/live/tvbc/?163189
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(多音轨字幕)
+http://服务器ip:20006/stream/tvb/fct4k/?163189
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS(多音轨字幕)
+http://服务器ip:20006/stream/tvb/tvbp/?163189
