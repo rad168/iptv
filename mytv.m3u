@@ -65,19 +65,21 @@ http://服务器ip:20003/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="CHU" group-title="mytv",CHU
 http://服务器ip:20003/live/chu/stream.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="mytv",龙华电影
-http://服务器ip:20009/live/lhdy/stream.m3u8
+http://服务器ip:20009/163189/lhdy?163189
 #EXTINF:-1 tvg-name="龙华经典" group-title="mytv",龙华经典
-http://服务器ip:20009/live/lhjd/stream.m3u8
+http://服务器ip:20009/163189/lhjd?163189
 #EXTINF:-1 tvg-name="龙华卡通" group-title="mytv",龙华卡通
-http://服务器ip:20009/live/lhkt/stream.m3u8
+http://服务器ip:20009/163189/lhkt?163189
 #EXTINF:-1 tvg-name="龙华偶像" group-title="mytv",龙华偶像
-http://服务器ip:20009/live/lhox/stream.m3u8
+http://服务器ip:20009/163189/lhox?163189
 #EXTINF:-1 tvg-name="龙华日韩" group-title="mytv",龙华日韩
-http://服务器ip:20009/live/lhrh/stream.m3u8
+http://服务器ip:20009/163189/lhrh?163189
 #EXTINF:-1 tvg-name="龙华戏剧" group-title="mytv",龙华戏剧
-http://服务器ip:20009/live/lhxj/stream.m3u8
+http://服务器ip:20009/163189/lhxj?163189
 #EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
-http://服务器ip:20009/live/lhyp/stream.m3u8
+http://服务器ip:20009/163189/lhyp?163189
+#EXTINF:-1 tvg-name="金光布袋戏" group-title="mytv",金光布袋戏
+http://服务器ip:20006/stream/live/jgbdx/?163189
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://服务器ip:20002/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
