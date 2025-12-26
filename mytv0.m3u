@@ -65,19 +65,19 @@ http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/str
 #EXTINF:-1 tvg-name="CHU" group-title="mytv",CHU
 http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 #EXTINF:-1 tvg-name="龙华电影" group-title="mytv",龙华电影
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhdy
 #EXTINF:-1 tvg-name="龙华经典" group-title="mytv",龙华经典
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhjd
 #EXTINF:-1 tvg-name="龙华卡通" group-title="mytv",龙华卡通
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhkt
 #EXTINF:-1 tvg-name="龙华偶像" group-title="mytv",龙华偶像
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhox
 #EXTINF:-1 tvg-name="龙华日韩" group-title="mytv",龙华日韩
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhrh
 #EXTINF:-1 tvg-name="龙华戏剧" group-title="mytv",龙华戏剧
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhxj
 #EXTINF:-1 tvg-name="龙华洋片" group-title="mytv",龙华洋片
-http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+http://服务器ip/mytv.php?url=http://cdn8.veryfast.filegear-sg.me/163189/lhyp
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
