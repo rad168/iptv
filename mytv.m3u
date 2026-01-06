@@ -86,6 +86,8 @@ http://服务器ip:20002/smt3.2.1.php?id=jade_twn
 http://服务器ip:20002/smt3.2.1.php?id=jade_xue
 #EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
 http://服务器ip:20002/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
+http://服务器ip:20002/smt3.2.1.php?id=Wlt
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
 http://服务器ip:20002/smt3.2.1.php?id=pearl_twn
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
@@ -182,5 +184,9 @@ http://服务器ip:20006/stream/live/tvbxh/?163189
 http://服务器ip:20006/stream/live/tvbc/?163189
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(多音轨字幕)
 http://服务器ip:20006/stream/tvb/fct4k/?163189
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(多音轨字幕)
+http://服务器ip:20006/stream/tvb/fct/?163189
 #EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS(多音轨字幕)
 http://服务器ip:20006/stream/tvb/tvbp/?163189
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(多音轨字幕)
+http://服务器ip:20006/stream/tvb/mzt/?163189
