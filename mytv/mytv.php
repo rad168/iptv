@@ -9,11 +9,9 @@ if (empty($request_url)) {
 
 // 可选域名白名单
 $allowed_domains = [
-    'aktv.top',
     'php.jdshipin.com',
     'cdn12.jdshipin.com',
-    'v2h.jdshipin.com',
-    'v2hcdn.jdshipin.com',
+    'o11.163189.xyz',
     'cdn.163189.xyz',
     'cdn2.163189.xyz',
     'cdn3.163189.xyz',
@@ -22,7 +20,7 @@ $allowed_domains = [
     'cdn9.163189.xyz'
 ];
 
-// 是否启用域名检查（设为 false 表示允许任何域名/IP）
+// 是否启用域名检查（false 表示允许任何域名/IP）
 $enable_domain_check = false;
 
 $parsed_url = parse_url($request_url);
@@ -31,6 +29,43 @@ $host = $parsed_url['host'] ?? '';
 if ($enable_domain_check && !in_array($host, $allowed_domains)) {
     die('非法请求的域名');
 }
+
+// =================== TS 文件 Range 支持 ===================
+if (preg_match('/\.ts$/i', $parsed_url['path'])) {
+    // 初始化 cURL
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $request_url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HEADER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+
+    // 支持 Range 请求
+    if (isset($_SERVER['HTTP_RANGE'])) {
+        curl_setopt($ch, CURLOPT_HTTPHEADER, ["Range: " . $_SERVER['HTTP_RANGE']]);
+        http_response_code(206); // 部分内容
+    } else {
+        http_response_code(200);
+    }
+
+    $ts_data = curl_exec($ch);
+    $curl_error = curl_error($ch);
+    curl_close($ch);
+
+    if ($ts_data === false) {
+        die("CURL ERROR: " . $curl_error);
+    }
+
+    header('Content-Type: video/MP2T');
+    header('Content-Length: ' . strlen($ts_data));
+    if (isset($_SERVER['HTTP_RANGE'])) {
+        header('Accept-Ranges: bytes');
+    }
+    echo $ts_data;
+    exit();
+}
+
+// =================== 普通 m3u8 代理 ===================
 
 // 兼容 getallheaders() 函数
 if (!function_exists('getallheaders')) {
@@ -53,7 +88,7 @@ if (!function_exists('str_starts_with')) {
     }
 }
 
-// 兼容 str_contains 函数
+// 兼容 str_contains() 函数
 if (!function_exists('str_contains')) {
     function str_contains($haystack, $needle) {
         return $needle !== '' && strpos($haystack, $needle) !== false;
@@ -139,7 +174,7 @@ if ($response === false) {
     die("CURL ERROR: " . $curl_error);
 }
 
-// ========== m3u8 替换逻辑 ==========
+// =================== m3u8 代理 ===================
 $is_m3u8 = false;
 $content_type = $response_headers['content-type'] ?? '';
 
@@ -147,7 +182,6 @@ if (
     strpos($request_url, '.m3u8') !== false ||
     stripos($content_type, 'mpegurl') !== false ||
     stripos($content_type, 'application/x-mpegurl') !== false ||
-//    stripos($content_type, 'text/plain') !== false ||
     strpos(ltrim($body), '#EXTM3U') === 0
 ) {
     $is_m3u8 = true;
@@ -156,39 +190,79 @@ if (
 if ($is_m3u8) {
     $base_root = $parsed_url['scheme'] . '://' . $parsed_url['host'] .
         (isset($parsed_url['port']) ? ':' . $parsed_url['port'] : '');
-    $base_dir = $base_root . dirname($parsed_url['path']) . '/';
 
-    $body = preg_replace_callback(
-        // 更稳健的正则表达式：匹配 URL、绝对路径、相对路径，允许 query 参数，允许无后缀
-        '/(?P<url>(https?:\/\/[^\s"\']+)|((\/|\.\.?\/)?[^\s"\']+))/i',
-        function ($matches) use ($base_root, $base_dir) {
-            $url = trim($matches['url']);
+    $path = $parsed_url['path'] ?? '/';
+    if (substr($path, -1) === '/') {
+        $base_dir = $base_root . $path;
+    } else {
+        $base_dir = $base_root . dirname($path) . '/';
+    }
 
-            // 跳过 m3u8 语法行
-            if (str_starts_with($url, '#')) return $url;
+    // ================= m3u8 安全逐行解析 =================
+    $lines = preg_split("/\r\n|\n|\r/", $body);
+    $out   = [];
 
-            // 跳过 data uri 等
-            if (str_starts_with($url, 'data:')) return $url;
+    foreach ($lines as $rawLine) {
+        $line = rtrim($rawLine);
 
-            // 跳过已经被代理过的
-            if (str_contains($url, 'mytv.php?url=')) return $url;
+        if ($line === '') {
+            $out[] = $rawLine;
+            continue;
+        }
 
-            // 完整 URL
-            if (preg_match('/^https?:\/\//i', $url)) {
-                return 'mytv.php?url=' . urlencode($url);
-            }
+        // 处理 URI="..." 行
+        if ($line[0] === '#' && stripos($line, 'URI="') !== false) {
+            $line = preg_replace_callback(
+                '/URI="([^"]+)"/i',
+                function ($m) use ($base_root, $base_dir) {
+                    $uri = $m[1];
 
-            // 以 / 开头（绝对路径）
-            if (str_starts_with($url, '/')) {
-                return 'mytv.php?url=' . urlencode($base_root . $url);
-            }
+                    if (strpos($uri, 'mytv.php?url=') !== false) {
+                        return 'URI="' . $uri . '"';
+                    }
 
-            // 处理 ../ 或 ./ 等相对路径
-            return 'mytv.php?url=' . urlencode($base_dir . $url);
-        },
-        $body
-    );
+                    if (preg_match('#^https?://#i', $uri)) {
+                        $url = $uri;
+                    } elseif (str_starts_with($uri, '/')) {
+                        $url = $base_root . $uri;
+                    } else {
+                        $url = $base_dir . $uri;
+                    }
 
+                    return 'URI="mytv.php?url=' . urlencode($url) . '"';
+                },
+                $line
+            );
+
+            $out[] = $line;
+            continue;
+        }
+
+        // 其它 EXT 行原样保留
+        if ($line[0] === '#') {
+            $out[] = $line;
+            continue;
+        }
+
+        // 已代理的不重复处理
+        if (strpos($line, 'mytv.php?url=') !== false) {
+            $out[] = $line;
+            continue;
+        }
+
+        // 普通资源行
+        if (preg_match('#^https?://#i', $line)) {
+            $url = $line;
+        } elseif (str_starts_with($line, '/')) {
+            $url = $base_root . $line;
+        } else {
+            $url = $base_dir . $line;
+        }
+
+        $out[] = 'mytv.php?url=' . urlencode($url);
+    }
+
+    $body = implode("\n", $out);
     header('Content-Disposition: inline; filename=index.m3u8');
 }
 
