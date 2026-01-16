@@ -158,3 +158,33 @@ http://服务器ip/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/xinghe/
 http://服务器ip/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
 #EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
 http://服务器ip/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="华丽翡翠台" group-title="mytv",华丽翡翠台(新加坡)
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 tvg-name="Astro AOD" group-title="mytv",Astro AOD
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="Astro AEC" group-title="mytv",Astro AEC
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-name="Astro QJ" group-title="mytv",Astro QJ
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 tvg-name="Astro欢喜台" group-title="mytv",Astro欢喜台
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-name="爱奇艺" group-title="mytv",爱奇艺
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="千禧经典台" group-title="mytv",千禧经典台
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(多音轨字幕)
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(多音轨字幕)
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="TVB PLUS" group-title="mytv",TVB PLUS(多音轨字幕)
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(多音轨字幕)
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/tvb/mzt/
