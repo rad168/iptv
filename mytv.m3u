@@ -19,9 +19,9 @@ http://服务器ip:20000/live/hoy78/stream.m3u8
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
 http://服务器ip:20000/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
-http://服务器ip:20000/live/viu/stream.m3u8
+http://服务器ip:20010/cdn9/stream/163189/viu/?163189
 #EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
-http://服务器ip:20000/live/viu6/stream.m3u8
+http://服务器ip:20010/cdn9/stream/163189/viu6/?163189
 #EXTINF:-1 tvg-name="Now新聞台" group-title="mytv",NOW新闻台
 http://服务器ip:20000/live/now/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
@@ -153,11 +153,11 @@ http://服务器ip:20004/live/tvbxh/stream.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
 http://服务器ip:20001/live/hxws/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
-http://服务器ip:20010/cdn9/live/xinghe/stream.m3u8
-#EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映频道
-http://服务器ip:20010/cdn9/live/typd/stream.m3u8
+http://服务器ip:20010/cdn9/stream/163189/xinghe/?163189
+#EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映新加坡
+http://服务器ip:20010/cdn9/stream/163189/typd/?163189
 #EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
-http://服务器ip:20010/cdn9/live/ccm/stream.m3u8
+http://服务器ip:20010/cdn9/stream/163189/ccm/?163189
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
 http://服务器ip:20006/stream/live/hlt/?163189
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台(硬字幕)
@@ -182,3 +182,122 @@ http://服务器ip:20006/stream/live/ccm/?163189
 http://服务器ip:20006/stream/live/tvbxh/?163189
 #EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧经典台
 http://服务器ip:20006/stream/live/tvbc/?163189
+
+#EXTINF:-1 tvg-name="HOY77" group-title="直连测试",HOY TV
+http://pull.cly.alivecdn.com/live/39ecfe1253b307af2e93faa1cd0ae56b.flv
+#EXTINF:-1 tvg-name="ViuTV" group-title="直连测试",ViuTV
+http://hls-pull-lumawnew.speedws.com/live/365d15bad7d95fba0ca015fccc1bb588.m3u8
+#EXTINF:-1 tvg-name="TVB1" group-title="直连测试",TVB1
+http://hls-pull-lumawnew.speedws.com/live/c55985eebf76a91b12f259549118ed86.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="直连测试",翡翠台
+http://hls-pull-lumawnew.speedws.com/live/7099f66df8ea9e3bb15e1023e60f9a68.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="直连测试",翡翠台
+http://hls-pull-lumawnew.speedws.com/live/76a5bea61a9b95235ecc8e10efa23a1f.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="直连测试",明珠台
+http://hls-pull-lumawnew.speedws.com/live/c5220acf319f65ba0161a8d82760ed1d.m3u8
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="直连测试",华丽翡翠台
+http://hls-pull-lumawnew.speedws.com/live/afef8d032299c6cae821da210c3f0975.m3u8
+#EXTINF:-1 tvg-name="无线新闻" group-title="直连测试",无线新闻台
+http://hls-pull-lumawnew.speedws.com/live/8909061706b522e5620dbfe2b5f7d33e.m3u8
+#EXTINF:-1 tvg-name="AOD" group-title="直连测试",Astro AOD
+http://hls-pull-lumawnew.speedws.com/live/fe563af50ab5d0fa39513daf2e25e8e9.m3u8
+#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="直连测试",TVB亚洲武侠
+http://hls-pull-lumawnew.speedws.com/live/bdb59ec9d515cdad77fe2ed50899adac.m3u8
+#EXTINF:-1 tvg-name="广东珠江" group-title="直连测试",广东珠江
+http://hls-pull-lumawnew.speedws.com/live/96a6703f0ad8736352c2be0e6f5630fb.m3u8
+#EXTINF:-1 tvg-name="广东体育" group-title="直连测试",广东体育
+http://hls-pull-lumawnew.speedws.com/live/5f8b6c18643188e8a1ae8aab6811c7b9.m3u8
+
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="直连测试2",翡翠台
+http://cdn6.up.ug.cx/163189/fct
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="直连测试2",华丽翡翠台(硬字幕)
+http://cdn6.up.ug.cx/163189/jade
+#EXTINF:-1 tvg-name="HOY77" group-title="直连测试2",HOY TV
+http://cdn.up.ug.cx/163189/hoy
+#EXTINF:-1 tvg-name="HOY77" group-title="直连测试2",HOY TV
+http://cdn6.up.ug.cx/163189/hoy
+#EXTINF:-1 tvg-name="HOY劇集台" group-title="直连测试2",HOY剧集台
+http://cdn.up.ug.cx/163189/hoyjj
+#EXTINF:-1 tvg-name="ViuTV" group-title="直连测试2",ViuTV
+http://cdn.up.ug.cx/163189/viu
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="直连测试2",ViuTVSix
+http://cdn.up.ug.cx/163189/viu6
+#EXTINF:-1 tvg-name="Now新聞台" group-title="直连测试2",NOW新闻台
+http://cdn.up.ug.cx/163189/now
+#EXTINF:-1 tvg-name="RTHK31" group-title="直连测试2",RTHK31
+http://cdn.up.ug.cx/163189/rthk31
+#EXTINF:-1 tvg-name="RTHK32" group-title="直连测试2",RTHK32
+http://cdn.up.ug.cx/163189/rthk32
+#EXTINF:-1 tvg-name="凤凰中文" group-title="直连测试2",凤凰中文
+http://cdn6.up.ug.cx/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="直连测试2",凤凰资讯
+http://cdn6.up.ug.cx/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" group-title="直连测试2",凤凰香港
+http://cdn6.up.ug.cx/163189/fhhk
+#EXTINF:-1 tvg-name="无线新闻" group-title="直连测试2",无线新闻台
+http://cdn6.up.ug.cx/163189/wxxw
+#EXTINF:-1 tvg-name="八度空间" group-title="直连测试2",八度空间
+http://cdn6.up.ug.cx/163189/8tv
+#EXTINF:-1 tvg-name="CH5" group-title="直连测试2",CH5
+http://cdn6.up.ug.cx/163189/ch5
+#EXTINF:-1 tvg-name="CH8" group-title="直连测试2",CH8
+http://cdn6.up.ug.cx/163189/ch8
+#EXTINF:-1 tvg-name="CHU" group-title="直连测试2",CHU
+http://cdn6.up.ug.cx/163189/chu
+#EXTINF:-1 tvg-name="RTHK33" group-title="直连测试2",CCTV1港澳版
+http://cdn6.up.ug.cx/163189/cctv1
+#EXTINF:-1 tvg-name="澳视澳门" group-title="直连测试2",澳视澳门
+http://cdn6.up.ug.cx/163189/asam
+#EXTINF:-1 tvg-name="澳视卫星" group-title="直连测试2",澳视卫星
+http://cdn6.up.ug.cx/163189/as
+#EXTINF:-1 tvg-name="澳视体育" group-title="直连测试2",澳门体育
+http://cdn6.up.ug.cx/163189/amty
+#EXTINF:-1 tvg-name="澳视综艺" group-title="直连测试2",澳门综艺
+http://cdn6.up.ug.cx/163189/amzy
+#EXTINF:-1 tvg-name="澳门莲花" group-title="直连测试2",澳门莲花
+http://cdn6.up.ug.cx/163189/amlh
+#EXTINF:-1 tvg-name="重温经典" group-title="直连测试2",重温经典
+http://cdn6.up.ug.cx/163189/cwjd
+#EXTINF:-1 tvg-name="广东珠江" group-title="直连测试2",广东珠江
+http://cdn2.up.ug.cx/163189/gdzj
+#EXTINF:-1 tvg-name="广东体育" group-title="直连测试2",广东体育
+http://cdn2.up.ug.cx/163189/gdty
+
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="直连测试3",翡翠台
+http://fast.163189.xyz/163189/fct
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="直连测试3",华丽翡翠台(硬字幕)
+http://fast.163189.xyz/163189/jade
+#EXTINF:-1 tvg-name="HOY77" group-title="直连测试3",HOY TV
+http://fast.163189.xyz/163189/hoy
+#EXTINF:-1 tvg-name="凤凰中文" group-title="直连测试3",凤凰中文
+http://fast.163189.xyz/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="直连测试3",凤凰资讯
+http://fast.163189.xyz/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" group-title="直连测试3",凤凰香港
+http://fast.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-name="无线新闻" group-title="直连测试3",无线新闻台
+http://fast.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-name="八度空间" group-title="直连测试3",八度空间
+http://fast.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-name="CH5" group-title="直连测试3",CH5
+http://fast.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="CH8" group-title="直连测试3",CH8
+http://fast.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="CHU" group-title="直连测试3",CHU
+http://fast.163189.xyz/163189/chu
+#EXTINF:-1 tvg-name="RTHK33" group-title="直连测试3",CCTV1港澳版
+http://fast.163189.xyz/163189/cctv1
+#EXTINF:-1 tvg-name="澳视澳门" group-title="直连测试3",澳视澳门
+http://fast.163189.xyz/163189/asam
+#EXTINF:-1 tvg-name="澳视卫星" group-title="直连测试3",澳视卫星
+http://fast.163189.xyz/163189/as
+#EXTINF:-1 tvg-name="澳视体育" group-title="直连测试3",澳门体育
+http://fast.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳视综艺" group-title="直连测试3",澳门综艺
+http://fast.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-name="澳门莲花" group-title="直连测试3",澳门莲花
+http://fast.163189.xyz/163189/amlh
+#EXTINF:-1 tvg-name="重温经典" group-title="直连测试3",重温经典
+http://fast.163189.xyz/163189/cwjd
