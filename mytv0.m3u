@@ -19,9 +19,9 @@ http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy78/st
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
-http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+http://服务器ip/mytv.php?url=https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
-http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/viu6/stream.m3u8
+http://服务器ip/mytv.php?url=https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 tvg-name="Now新聞台" group-title="mytv",NOW新闻台
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
@@ -153,11 +153,11 @@ http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/st
 #EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
 http://服务器ip/mytv.php?url=http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
-http://服务器ip/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/xinghe/stream.m3u8
+http://服务器ip/mytv.php?url=https://cdn10.163189.xyz/stream/163189/xinghe/
 #EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映新加坡
-http://服务器ip/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/typd/stream.m3u8
+http://服务器ip/mytv.php?url=https://cdn10.163189.xyz/stream/163189/typd/
 #EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
-http://服务器ip/mytv.php?url=http://cdn9.veryfast.filegear-sg.me/live/ccm/stream.m3u8
+http://服务器ip/mytv.php?url=https://cdn10.163189.xyz/stream/163189/ccm/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台(硬字幕)
