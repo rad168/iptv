@@ -147,7 +147,7 @@ http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/yzwx/str
 #EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娱乐新闻台
 http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
-http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/wxxwt/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
@@ -182,3 +182,5 @@ http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/ccm/
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧经典台
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-name="KUDADA" group-title="mytv",Astro酷哒哒
+http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/test/
