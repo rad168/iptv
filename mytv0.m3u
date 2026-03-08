@@ -18,6 +18,14 @@ http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stre
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
+#EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/a94d3b1906890f40
+#EXTINF:-1 tvg-name="HOY生活台" group-title="mytv",HOY生活台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/97a58b41f2858adf
+#EXTINF:-1 tvg-name="HOY怪談台" group-title="mytv",HOY怪谈台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/619486fefe584d65
+#EXTINF:-1 tvg-name="HOY體育台" group-title="mytv",HOY体育台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/ceadd90e759a6f19
 #EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
 http://服务器ip/mytv.php?url=https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
