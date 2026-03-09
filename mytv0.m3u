@@ -192,3 +192,31 @@ http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbxh/
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="KUDADA" group-title="mytv",Astro酷哒哒
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/test/
+#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/b44447419d330ab7
+#EXTINF:-1 tvg-name="纬来戏剧台" group-title="mytv",纬来戏剧台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/7e146c624498b74f
+#EXTINF:-1 tvg-name="东森电影台" group-title="mytv",东森电影
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/85727f10d5918647
+#EXTINF:-1 tvg-name="东森洋片台" group-title="mytv",东森洋片
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/697562be75c62e71
+#EXTINF:-1 tvg-name="东森戏剧台" group-title="mytv",东森戏剧
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/69d72a9270f70eed
+#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天电影
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/b9487ff20edce2e5
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戏剧
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/25fa676ef5cffbeb
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="mytv",好莱坞电影
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/b554212889114bb3
+#EXTINF:-1 tvg-name="龙祥时代" group-title="mytv",龙祥时代
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/c3e24b0332b0c1a6
+#EXTINF:-1 tvg-name="Cinemax HD" group-title="mytv",CINEMAX
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/dd62b4cf6751d628
+#EXTINF:-1 tvg-name="HBO HD" group-title="mytv",HBO
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/bc37c63fc2372689
+#EXTINF:-1 tvg-name="HBO Hits HD" group-title="mytv",HBO Hits
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/a1ec7fdd6c283601
+#EXTINF:-1 tvg-name="HBO Signature HD" group-title="mytv",HBO Signature
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/e83a0665fbb28213
+#EXTINF:-1 tvg-name="HBO Family HD" group-title="mytv",HBO Family
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/8eb6f5836b39f50e
