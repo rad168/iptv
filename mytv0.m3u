@@ -16,6 +16,8 @@ http://服务器ip/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/str
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY资讯台
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY国际财经台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
 http://服务器ip/mytv.php?url=http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
@@ -192,31 +194,45 @@ http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbxh/
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="KUDADA" group-title="mytv",Astro酷哒哒
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/test/
-#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影台
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/b44447419d330ab7
-#EXTINF:-1 tvg-name="纬来戏剧台" group-title="mytv",纬来戏剧台
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/7e146c624498b74f
-#EXTINF:-1 tvg-name="东森电影台" group-title="mytv",东森电影
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/85727f10d5918647
-#EXTINF:-1 tvg-name="东森洋片台" group-title="mytv",东森洋片
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/697562be75c62e71
-#EXTINF:-1 tvg-name="东森戏剧台" group-title="mytv",东森戏剧
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/69d72a9270f70eed
-#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天电影
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/b9487ff20edce2e5
-#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戏剧
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/25fa676ef5cffbeb
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="mytv",好莱坞电影
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/b554212889114bb3
-#EXTINF:-1 tvg-name="龙祥时代" group-title="mytv",龙祥时代
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/c3e24b0332b0c1a6
-#EXTINF:-1 tvg-name="Cinemax HD" group-title="mytv",CINEMAX
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/dd62b4cf6751d628
-#EXTINF:-1 tvg-name="HBO HD" group-title="mytv",HBO
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/bc37c63fc2372689
-#EXTINF:-1 tvg-name="HBO Hits HD" group-title="mytv",HBO Hits
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/a1ec7fdd6c283601
-#EXTINF:-1 tvg-name="HBO Signature HD" group-title="mytv",HBO Signature
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/e83a0665fbb28213
-#EXTINF:-1 tvg-name="HBO Family HD" group-title="mytv",HBO Family
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/8eb6f5836b39f50e
+#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/bea1d91d91364062
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+#EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/21d79187db6e9793
+#EXTINF:-1 tvg-name="广州综合" group-title="mytv",广州综合
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+#EXTINF:-1 tvg-name="广州新闻" group-title="mytv",广州新闻
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+#EXTINF:-1 tvg-name="民視影劇台" group-title="mytv",民视影剧台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
+#EXTINF:-1 tvg-name="公視戲劇" group-title="mytv",公视戏剧
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/2973b910e7719c08
+#EXTINF:-1 tvg-name="采昌影劇台" group-title="mytv",采昌影剧台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/0a6204ed0261460c
+#EXTINF:-1 tvg-name="靖天映畫" group-title="mytv",靖天映画
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
+#EXTINF:-1 tvg-name="靖天戲劇台" group-title="mytv",靖天戏剧台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天电影台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戏剧台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/5c1cf6af04d96cb4
+#EXTINF:-1 tvg-name="影迷數位電影台" group-title="mytv",影迷数位电影台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/a643783ec587540e
+#EXTINF:-1 tvg-name="amc電影台" group-title="mytv",amc电影台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="mytv",CinemaWorld
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/6086cfe7a9756110
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="mytv",My Cinema Europe
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/5bda99f1c049edef
+#EXTINF:-1 tvg-name="經典電影台" group-title="mytv",经典电影台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
+#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="mytv",CMusic
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/d396cb84b6c89889
+#EXTINF:-1 tvg-name="DreamWorks" group-title="mytv",DreamWorks梦工厂动画
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
+#EXTINF:-1 tvg-name="精選動漫台" group-title="mytv",精选动漫台
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/5479c245d9d580b5
