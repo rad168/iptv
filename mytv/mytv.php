@@ -3,7 +3,35 @@
 //ini_set('display_errors', '1');
 
 $request_url = isset($_GET['url']) ? urldecode($_GET['url']) : '';
-if (empty($request_url)) {
+$p = $_GET['p'] ?? '';
+
+//订阅m3u列表
+if ($p === 'm3u') {
+
+    $scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') 
+        ? 'https' 
+        : 'http';
+
+    $path = $scheme . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'];
+
+
+$m3uurl = "https://github.com/rad168/iptv/raw/refs/heads/main/mytv0.m3u";
+
+$m3u = file_get_contents($m3uurl);
+
+$m3u = preg_replace(
+    '#http://[^/]+/mytv\.php#',
+    $path,
+    $m3u
+);
+
+header("Content-Type: text/plain; charset=utf-8");
+
+echo $m3u;
+exit;
+}
+
+if (empty($request_url) && empty($p)) {
     die('缺少 url 参数');
 }
 
