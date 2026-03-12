@@ -204,6 +204,10 @@ http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/21d79187db6e9
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 #EXTINF:-1 tvg-name="广州新闻" group-title="mytv",广州新闻
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/609602b1e1048784
+#EXTINF:-1 tvg-name="南国都市4K" group-title="mytv",广州南国都市
+http://服务器ip/mytv.php?url=https://cdn15.163189.xyz/163189/90871926591ebcbc
+#EXTINF:-1 tvg-name="五星体育" group-title="mytv",五星体育
+http://服务器ip/mytv.php?url=https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 #EXTINF:-1 tvg-name="民視影劇台" group-title="mytv",民视影剧台
 http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 #EXTINF:-1 tvg-name="公視戲劇" group-title="mytv",公视戏剧
@@ -217,7 +221,7 @@ http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/177d541552f78
 #EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天电影台
 http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
 #EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戏剧台
-http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/5c1cf6af04d96cb4
+http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/25084ef5a2662aad
 #EXTINF:-1 tvg-name="影迷數位電影台" group-title="mytv",影迷数位电影台
 http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/a643783ec587540e
 #EXTINF:-1 tvg-name="amc電影台" group-title="mytv",amc电影台
