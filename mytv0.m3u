@@ -146,9 +146,9 @@ http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?
 http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
 http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
-#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影
+#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影台
 http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandmovie
-#EXTINF:-1 tvg-name="纬来体育台" group-title="mytv",纬来体育
+#EXTINF:-1 tvg-name="纬来体育台" group-title="mytv",纬来体育台
 http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandsport
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
 http://服务器ip/mytv.php?url=http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
@@ -240,3 +240,13 @@ http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/10395eb942c5a
 http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
 http://服务器ip/mytv.php?url=https://cdn12.178.indevs.in/163189/5479c245d9d580b5
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/6d66c98dee6f7845
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB PLUS
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/a906b4b30cbdb378
+#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影台
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/80ddab2e59995534
+#EXTINF:-1 tvg-name="纬来戏剧台" group-title="mytv",纬来戏剧台
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/ec8ee60a3072ac21
+#EXTINF:-1 tvg-name="龙祥时代" group-title="mytv",龙祥时代
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/1a411c8b805fba21
