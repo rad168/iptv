@@ -3,15 +3,15 @@
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
 http://服务器ip:20006/stream/tvb/fct4k/?163189
 #EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
-http://服务器ip:20003/live/fhzw/stream.m3u8
+http://服务器ip:20003/163189/fhzw?163189
 #EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
-http://服务器ip:20003/live/cctv1/stream.m3u8
+http://服务器ip:20003/163189/cctv1?163189
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 http://服务器ip:20001/live/cctv13/stream.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(字幕)
 http://服务器ip:20006/stream/tvb/tvbp/?163189
 #EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
-http://服务器ip:20003/live/hoy/stream.m3u8
+http://服务器ip:20003/163189/hoy?163189
 #EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
 http://服务器ip:20000/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY资讯台
@@ -29,47 +29,47 @@ http://服务器ip:20000/live/rthk31/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
 http://服务器ip:20000/live/rthk32/stream.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" group-title="mytv",澳视澳门
-http://服务器ip:20003/live/asam/stream.m3u8
+http://服务器ip:20003/163189/asam?163189
 #EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
-http://服务器ip:20003/live/as/stream.m3u8
+http://服务器ip:20003/163189/as?163189
 #EXTINF:-1 tvg-name="澳视体育" group-title="mytv",澳门体育
-http://服务器ip:20003/live/amty/stream.m3u8
+http://服务器ip:20003/163189/amty?163189
 #EXTINF:-1 tvg-name="澳视综艺" group-title="mytv",澳门综艺
-http://服务器ip:20003/live/amzy/stream.m3u8
+http://服务器ip:20003/163189/amzy?163189
 #EXTINF:-1 tvg-name="澳门莲花" group-title="mytv",澳门莲花
-http://服务器ip:20003/live/amlh/stream.m3u8
+http://服务器ip:20003/163189/amlh?163189
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
-http://服务器ip:20003/live/cwjd/stream.m3u8
+http://服务器ip:20003/163189/cwjd?163189
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
-http://服务器ip:20003/live/fhzx/stream.m3u8
+http://服务器ip:20003/163189/fhzx?163189
 #EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
-http://服务器ip:20003/live/fhhk/stream.m3u8
+http://服务器ip:20003/163189/fhhk?163189
 #EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
-http://服务器ip:20003/live/tvb1/stream.m3u8
+http://服务器ip:20003/163189/tvb1?163189
 #EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
-http://服务器ip:20003/live/j1/stream.m3u8
+http://服务器ip:20003/163189/j1?163189
 #EXTINF:-1 tvg-name="翡翠剧集台" group-title="mytv",翡翠剧集台
-http://服务器ip:20003/live/tvbd/stream.m3u8
+http://服务器ip:20003/163189/tvbd?163189
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
-http://服务器ip:20003/live/fct/stream.m3u8
+http://服务器ip:20003/163189/fct?163189
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(字幕)
 http://服务器ip:20006/stream/tvb/fct/?163189
 #EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(字幕)
 http://服务器ip:20006/stream/tvb/mzt/?163189
 #EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
-http://服务器ip:20003/live/wxxw/stream.m3u8
+http://服务器ip:20003/163189/wxxw?163189
 #EXTINF:-1 tvg-name="广东珠江" group-title="mytv",广东珠江
 http://服务器ip:20007/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" group-title="mytv",广东体育
 http://服务器ip:20007/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
-http://服务器ip:20003/live/8tv/stream.m3u8
+http://服务器ip:20003/163189/8tv?163189
 #EXTINF:-1 tvg-name="Channel 5" group-title="mytv",CH5
-http://服务器ip:20003/live/ch5/stream.m3u8
+http://服务器ip:20003/163189/ch5?163189
 #EXTINF:-1 tvg-name="Channel 8" group-title="mytv",CH8
-http://服务器ip:20003/live/ch8/stream.m3u8
+http://服务器ip:20003/163189/ch8?163189
 #EXTINF:-1 tvg-name="Channel U" group-title="mytv",CHU
-http://服务器ip:20003/live/chu/stream.m3u8
+http://服务器ip:20003/163189/chu?163189
 #EXTINF:-1 tvg-name="龍華電影" group-title="mytv",龙华电影
 http://服务器ip:20009/163189/lhdy?163189
 #EXTINF:-1 tvg-name="龍華經典" group-title="mytv",龙华经典
@@ -103,7 +103,7 @@ http://服务器ip:20010/cdn9/stream/163189/ccm/?163189
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
 http://服务器ip:20006/stream/live/hlt/?163189
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台(硬字幕)
-http://服务器ip:20003/live/jade/stream.m3u8
+http://服务器ip:20003/163189/jade?163189
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台(新加坡)
 http://服务器ip:20006/stream/live/jade/?163189
 #EXTINF:-1 tvg-name="AOD" group-title="mytv",Astro AOD
@@ -170,6 +170,22 @@ http://服务器ip:20010/cdn12/163189/10395eb942c5a9b9?163189
 http://服务器ip:20010/cdn12/163189/e1d66f74bd2d4894?163189
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
 http://服务器ip:20010/cdn12/163189/5479c245d9d580b5?163189
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus
+http://服务器ip:20002/163189/18e96648d4420d9e?163189
+#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影台
+http://服务器ip:20002/163189/145487bee05856fc?163189
+#EXTINF:-1 tvg-name="纬来戏剧台" group-title="mytv",纬来戏剧台
+http://服务器ip:20002/163189/3586bd154f561caa?163189
+#EXTINF:-1 tvg-name="纬来体育台" group-title="mytv",纬来体育台
+http://服务器ip:20002/163189/286f8eb30448a8e8?163189
+#EXTINF:-1 tvg-name="龙祥时代" group-title="mytv",龙祥时代
+http://服务器ip:20002/163189/76e7d8326be4c1bb?163189
+#EXTINF:-1 tvg-name="东森电影" group-title="mytv",东森电影
+http://服务器ip:20002/163189/a2a1ea789e237e18?163189
+#EXTINF:-1 tvg-name="东森戏剧" group-title="mytv",东森戏剧
+http://服务器ip:20002/163189/2824421ea53c4891?163189
+#EXTINF:-1 tvg-name="东森洋片" group-title="mytv",东森洋片
+http://服务器ip:20002/163189/c0e7a31a1ec220fd?163189
 #EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY国际财经台
 http://服务器ip:20010/cdn11/163189/2c86601a7180416e?163189
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
