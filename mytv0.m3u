@@ -177,6 +177,11 @@ http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
 http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/c4df21397505587b
 #EXTINF:-1 tvg-name="HOY生活台" group-title="mytv",HOY生活台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/c88d2a936daf88fb
+#EXTINF:-1 tvg-name="HOY怪談台" group-title="mytv",HOY怪谈台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/35f8613e99c59724
+#EXTINF:-1 tvg-name="HOY體育台" group-title="mytv",HOY体育台
+http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/19256090154aa9e9
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(WebVTT字幕)
 http://服务器ip/mytv.php?url=https://test.tvbjack.de5.net/proxy/7d62f375bedeb79e
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台H265(WebVTT字幕)
@@ -185,8 +190,4 @@ http://服务器ip/mytv.php?url=https://test.tvbjack.de5.net/proxy/ed92b20031628
 http://服务器ip/mytv.php?url=https://test.tvbjack.de5.net/proxy/50c9aa1bbb38d9c5
 #EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(WebVTT字幕)
 http://服务器ip/mytv.php?url=https://test.tvbjack.de5.net/proxy/fc3a00da73d24429
-http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/c88d2a936daf88fb
-#EXTINF:-1 tvg-name="HOY怪談台" group-title="mytv",HOY怪谈台
-http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/35f8613e99c59724
-#EXTINF:-1 tvg-name="HOY體育台" group-title="mytv",HOY体育台
-http://服务器ip/mytv.php?url=https://cdn11.163189.xyz/163189/19256090154aa9e9
+
