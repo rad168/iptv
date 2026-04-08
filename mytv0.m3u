@@ -128,10 +128,20 @@ http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/tvbc/
 http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/test/
 #EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/bea1d91d91364062
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/728a0426e886a6b6
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/ea38b764c2a9e93f
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/8cbaa4a5d3d56ccf
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/21d79187db6e9793
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="mytv",CHC家庭影院
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/adafdc2e9ef83fe0
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="mytv",CHC动作电影
+http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/32a810b251717bd0
 #EXTINF:-1 tvg-name="广州综合" group-title="mytv",广州综合
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
 #EXTINF:-1 tvg-name="广州新闻" group-title="mytv",广州新闻
@@ -180,3 +190,53 @@ http://服务器ip/mytv.php?url=https://hls.163189.xyz/163189/d6a00a3009bf239e
 http://服务器ip/mytv.php?url=https://hls.163189.xyz/163189/a2beac471af96802
 #EXTINF:-1 tvg-name="黃金華劇台" group-title="mytv",黄金华剧台(WebVTT字幕)
 http://服务器ip/mytv.php?url=https://hls.163189.xyz/163189/71fb62ece10887e8
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB PLUS
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧经典台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娱乐新闻台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVSix
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY资讯台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="美亞電影台" group-title="mytv",美亚电影台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="AOD" group-title="mytv",Astro AOD
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="AEC" group-title="mytv",Astro AEC
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="iQIYI" group-title="mytv",爱奇艺
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-name="QJ" group-title="mytv",Astro QJ
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="mytv",Astro欢喜台
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来体育台" group-title="mytv",纬来体育
+http://服务器ip/mytv.php?url=http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandsport
