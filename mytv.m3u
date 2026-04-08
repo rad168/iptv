@@ -16,8 +16,8 @@ http://服务器ip:20003/163189/hoy?163189
 http://服务器ip:20000/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY资讯台
 http://服务器ip:20000/live/hoy78/stream.m3u8
-#EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
-http://服务器ip:20000/live/hoyjj/stream.m3u8
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY国际财经台
+http://服务器ip:20010/cdn11/163189/2c86601a7180416e?163189
 #EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
 http://服务器ip:20010/cdn9/stream/163189/viu/?163189
 #EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
@@ -126,10 +126,20 @@ http://服务器ip:20006/stream/live/tvbxh/?163189
 http://服务器ip:20006/stream/live/tvbc/?163189
 #EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
 http://服务器ip:20010/cdn13/163189/bea1d91d91364062?163189
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
+http://服务器ip:20010/cdn13/163189/728a0426e886a6b6?163189
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
+http://服务器ip:20010/cdn13/163189/ea38b764c2a9e93f?163189
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
+http://服务器ip:20010/cdn13/163189/8cbaa4a5d3d56ccf?163189
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 http://服务器ip:20010/cdn13/163189/790bc5f7f0f06879?163189
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
 http://服务器ip:20010/cdn13/163189/21d79187db6e9793?163189
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="mytv",CHC家庭影院
+http://服务器ip:20010/cdn13/163189/adafdc2e9ef83fe0?163189
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="mytv",CHC动作电影
+http://服务器ip:20010/cdn13/163189/32a810b251717bd0?163189
 #EXTINF:-1 tvg-name="广州综合" group-title="mytv",广州综合
 http://服务器ip:20010/cdn13/163189/b13471c5de99d1c7?163189
 #EXTINF:-1 tvg-name="广州新闻" group-title="mytv",广州新闻
@@ -186,13 +196,3 @@ http://服务器ip:20002/163189/a2c09ea65fb10aa2?163189
 http://服务器ip:20002/163189/f60cd3f14b06dabc?163189
 #EXTINF:-1 tvg-name="东森洋片" group-title="mytv",东森洋片
 http://服务器ip:20002/163189/cd69d6ff4e8217c7?163189
-#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY国际财经台
-http://服务器ip:20010/cdn11/163189/2c86601a7180416e?163189
-#EXTINF:-1 tvg-name="HOY劇集台" group-title="mytv",HOY剧集台
-http://服务器ip:20010/cdn11/163189/c4df21397505587b?163189
-#EXTINF:-1 tvg-name="HOY生活台" group-title="mytv",HOY生活台
-http://服务器ip:20010/cdn11/163189/c88d2a936daf88fb?163189
-#EXTINF:-1 tvg-name="HOY怪談台" group-title="mytv",HOY怪谈台
-http://服务器ip:20010/cdn11/163189/35f8613e99c59724?163189
-#EXTINF:-1 tvg-name="HOY體育台" group-title="mytv",HOY体育台
-http://服务器ip:20010/cdn11/163189/19256090154aa9e9?163189
