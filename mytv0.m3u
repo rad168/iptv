@@ -130,12 +130,36 @@ http://服务器ip/mytv.php?url=http://o11.163189.xyz/stream/live/test/
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/bea1d91d91364062
 #EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/728a0426e886a6b6
+#EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/96a39bfe7103e9c5
 #EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/ea38b764c2a9e93f
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/04fd1e256f077cb4
+#EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/a546ae65742101d4
+#EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/4ceb289726bacf29
+#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/2a66b331c01cf2cf
+#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/88364a089ee099b9
 #EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/8cbaa4a5d3d56ccf
+#EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/02b8dd6e6d732d7d
+#EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/b29354983d6346c5
+#EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/ed91886aa823a364
 #EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
+#EXTINF:-1 tvg-name="CCTV14" group-title="mytv",CCTV14
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/7b67a22535e8be8e
+#EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/739033aae9798077
+#EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17
+http://服务器ip/mytv.php?url=https://cdn16.163189.xyz/163189/22590fc69319c801
 #EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
 http://服务器ip/mytv.php?url=https://cdn13.178.indevs.in/163189/21d79187db6e9793
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="mytv",CHC家庭影院
