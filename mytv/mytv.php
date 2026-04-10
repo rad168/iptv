@@ -35,7 +35,7 @@ if (empty($request_url) && empty($p)) {
     die('缺少 url 参数');
 }
 
-// 可选域名白名单
+// 可选域名白名单（支持带端口的域名/IP）
 $allowed_domains = [
     'php.jdshipin.com',
     'cdn12.jdshipin.com',
@@ -45,7 +45,9 @@ $allowed_domains = [
     'cdn3.163189.xyz',
     'cdn5.163189.xyz',
     'cdn6.163189.xyz',
-    'cdn9.163189.xyz'
+    'cdn9.163189.xyz',
+    '127.0.0.1',        // 示例：本地IP
+    '192.168.1.100'     // 示例：内网IP
 ];
 
 // 是否启用域名检查（false 表示允许任何域名/IP）
@@ -53,9 +55,20 @@ $enable_domain_check = false;
 
 $parsed_url = parse_url($request_url);
 $host = $parsed_url['host'] ?? '';
+$port = isset($parsed_url['port']) ? ':' . $parsed_url['port'] : '';
 
-if ($enable_domain_check && !in_array($host, $allowed_domains)) {
-    die('非法请求的域名');
+// 构建完整的主机标识（包含端口）用于白名单检查
+$host_with_port = $host . $port;
+$host_without_port = $host;
+
+if ($enable_domain_check) {
+    // 检查是否在白名单中（支持带端口或不带端口）
+    $is_allowed = in_array($host_without_port, $allowed_domains) || 
+                  in_array($host_with_port, $allowed_domains);
+    
+    if (!$is_allowed) {
+        die('非法请求的域名');
+    }
 }
 
 // =================== TS 文件 Range 支持 ===================
@@ -130,9 +143,21 @@ foreach (getallheaders() as $name => $value) {
         $headers[] = "$name: $value";
     }
 }
-$headers[] = "Host: $host";
+
+// 构建 Host 头，包含端口（如果有）
+$host_header = $host;
+if (isset($parsed_url['port'])) {
+    $host_header .= ':' . $parsed_url['port'];
+}
+$headers[] = "Host: $host_header";
+
+// 构建 Referer，包含端口（如果有）
+$referer_host = $host;
+if (isset($parsed_url['port'])) {
+    $referer_host .= ':' . $parsed_url['port'];
+}
 $headers[] = "User-Agent: AppleCoreMedia/1.0.0.7B367 (iPad; U; CPU OS 4_3_3 like Mac OS X)";
-$headers[] = "Referer: https://$host/";
+$headers[] = "Referer: " . $parsed_url['scheme'] . "://$referer_host/";
 $headers[] = "Accept-Encoding: gzip, deflate";
 
 // 发起请求
@@ -146,6 +171,11 @@ curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
 curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
 curl_setopt($ch, CURLOPT_ENCODING, "");
 curl_setopt($ch, CURLOPT_HTTP_VERSION, CURL_HTTP_VERSION_1_1);
+
+// 对于 IP 地址，可能需要禁用 SSL 主机验证
+if (filter_var($host, FILTER_VALIDATE_IP)) {
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+}
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     curl_setopt($ch, CURLOPT_POST, true);
@@ -216,8 +246,11 @@ if (
 }
 
 if ($is_m3u8) {
-    $base_root = $parsed_url['scheme'] . '://' . $parsed_url['host'] .
-        (isset($parsed_url['port']) ? ':' . $parsed_url['port'] : '');
+    // 构建基础 URL，包含端口
+    $base_root = $parsed_url['scheme'] . '://' . $parsed_url['host'];
+    if (isset($parsed_url['port'])) {
+        $base_root .= ':' . $parsed_url['port'];
+    }
 
     $path = $parsed_url['path'] ?? '/';
     if (substr($path, -1) === '/') {
